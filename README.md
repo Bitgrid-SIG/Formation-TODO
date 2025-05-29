@@ -11,7 +11,6 @@ A list of action items to form the Bitgrid SIG.
         - WG Leads
         - Etc
     - [ ] Specify term limits & ratification process (e.g. vote after 6 months or 50 members)
-    - [ ] Choose decision model (rough consensus + no objections) and release cadence
     - [ ] **Decision Model:** Lazy consensus with NACK-driven objections
         - Proposals announced via GitHub Issues/PRs
         - **Review Window:** 14 calendar days for objections (silence = consent)
