@@ -46,7 +46,8 @@ A list of action items to form the Bitgrid SIG.
     - [ ] **Main Gridsite:** Charter, WG portal, calendar, meeting archives
     - [ ] **WG Microsites:** lightweight docs for each WG's specs and roadmap
     - [ ] **Demonstration Gridsites:** host example gridsites (e.g. `grid://demo.bitgrid.sig/index.ext`)
-    - [ ] **Extra-Community Outreach:** Announce via retro, Lua, Pi, and standards communities
+    - [ ] **Extra-Community Outreach:** Announce to communities such as: Fantasy Consoles, Raspberry Pi,
+          General Lua Communities, Embedded Communities such as NodeMCU, Sipeed products, etc
     - [ ] **Hold Inaugural Plenary:** review charter, confirm Interim Chair, recruit WG leads
 - [ ] **7. Milestones & Maintenance**
     - [ ] v0.1 Protocol & DNS spec in 60 days
