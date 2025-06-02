@@ -1,0 +1,1910 @@
+- ATAG
+    - [ ] [[Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/TR/ATAG20/)] 
+        - Deliverers: [[Authoring Tool Accessibility Guidelines Working Group](/groups/wg/atag/)]
+        - Tags: Accessibility
+        - Translations: [[中文（简体）](https://www.w3.org/Translations/ATAG20-zh/)]
+    - [ ] [[Authoring Tool Accessibility Guidelines 1.0](https://www.w3.org/TR/ATAG10/)] 
+        - Deliverers: [[Authoring Tool Accessibility Guidelines Working Group](/groups/wg/atag/)]
+        - Tags: Accessibility
+        - Translations: [[français](http://www.la-grange.net/w3c/atag10/)], [[italiano](http://www.robertoscano.info/files/atag10/atag10.html)], [[日本語](http://www.doraneko.org/webauth/wai-at/REC000203.html)], [[한국어](http://gregshin.pe.kr/atag10/)]
+- Accessibility Conformance Testing
+    - [ ] [[Accessibility Conformance Testing (ACT) Rules Format 1.0](https://www.w3.org/TR/act-rules-format-1.0/)] 
+        - Deliverers: [[Accessibility Guidelines Working Group](/groups/wg/ag/)]
+        - Tags: Accessibility
+        - Translations: [[日本語](https://momdo.github.io/act-rules-format-1.0/)]
+- Accessibility User Requirements
+    - [ ] [[Accessibility Requirements for People with Low Vision](https://www.w3.org/TR/low-vision-needs/)] `draft standard`
+        - Deliverers: [[Accessibility Guidelines Working Group](/groups/wg/ag/)]
+        - Tags: Accessibility
+    - [ ] [[Cognitive Accessibility User Research](https://www.w3.org/TR/coga-user-research/)] `draft standard`
+        - Deliverers: [[Protocols and Formats Working Group](/groups/wg/pf/)], [[Accessibility Guidelines Working Group](/groups/wg/ag/)]
+        - Tags: Accessibility
+- Accessibility of Remote Meetings
+    - [ ] [[Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/)] `note`
+        - Deliverers: [[Accessible Platform Architectures Working Group](/groups/wg/apa/)]
+        - Tags: Accessibility
+- Accessibility of content
+    - [ ] [[Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)] 
+        - Deliverers: [[Accessibility Guidelines Working Group](/groups/wg/ag/)]
+        - Tags: Accessibility
+        - Translations: [[العربية](http://www.alecso.org/wcag2.0/)], [[беларуская](https://web.archive.org/web/20180919212803/http://www.fatcow.com/resources/wai-be.html)], [[català](https://www.w3.org/Translations/WCAG20-ca/)], [[čeština](https://lists.w3.org/Archives/Public/w3c-translators/2010OctDec/0022.html)], [[dansk](https://www.w3.org/Translations/WCAG20-da/)], [[Deutsch](https://www.w3.org/Translations/WCAG20-de/)], [[español](http://www.codexexempla.org/traducciones/pautas-accesibilidad-contenido-web-2.0.htm)], [[español](http://www.sidar.org/traducciones/wcag20/es/)], [[eesti](https://www.w3.org/Translations/WCAG20-et/)], [[suomi](https://www.w3.org/Translations/WCAG20-fi/)], [[français](https://www.w3.org/Translations/WCAG20-fr)], [[עברית](https://www.isoc.org.il/files/w3c-wai/guidelines.html)], [[हिन्दी](https://lists.w3.org/Archives/Public/w3c-translators/2009AprJun/0147.html)], [[hrvatski](https://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0188.html)], [[magyar](http://www.w3c.hu/forditasok/WCAG20/)], [[italiano](https://www.w3.org/Translations/WCAG20-it/)], [[日本語](https://waic.jp/translations/WCAG20/Overview.html)], [[日本語](https://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0198.html)], [[한국어](https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/)], [[한국어](https://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/att-0077/00-part)], [[lietuvių](https://lists.w3.org/Archives/Public/w3c-translators/2011JulSep/0063.html)], [[Nederlands](https://www.w3.org/Translations/WCAG20-nl/)], [[norsk](https://www.w3.org/Translations/WCAG20-no-20110926/)], [[polski](https://web.archive.org/web/20190323003504/http://fdc.org.pl/wcag2/)], [[português](http://www.acesso.umic.pt/w3/TR/WCAG20/)], [[português (Brasil)](https://www.w3.org/Translations/WCAG20-pt-br/)], [[português (Portugal)](https://www.w3.org/Translations/WCAG20-pt-PT/)], [[română](https://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0031.html)], [[русский](https://www.w3.org/Translations/WCAG20-ru/)], [[svenska](https://www.w3.org/Translations/WCAG20-sv/)], [[中文（简体）](https://www.w3.org/Translations/WCAG20-zh/)]
+    - [ ] [[Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)] 
+        - Deliverers: [[Accessibility Guidelines Working Group](/groups/wg/ag/)]
+        - Tags: Accessibility
+    - [ ] [[Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)] 
+        - Deliverers: [[Accessibility Guidelines Working Group](/groups/wg/ag/)]
+        - Tags: Accessibility
+- Audio Output Devices API
+    - [ ] [[Audio Output Devices API](https://www.w3.org/TR/audio-output/)] `candidate standard`
+        - Deliverers: [[Web Real-Time Communications Working Group](/groups/wg/webrtc/)]
+        - Tags: Media, Web API
+- Audio Session
+    - [ ] [[Audio Session](https://www.w3.org/TR/audio-session/)] `draft standard`
+        - Deliverers: [[Media Working Group](/groups/wg/media/)]
+        - Tags: Media
+- Audiobooks
+    - [ ] [[Audiobooks](https://www.w3.org/TR/audiobooks/)] 
+        - Deliverers: [[Audiobooks Working Group](/groups/wg/publishing/)]
+        - Tags: Digital Publishing
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/publishing/REC-audiobooks-20201110.html)], [[中文（繁體）](https://dpublishing.github.io/audiobooks-specs-tc/audiobooks.html)]
+- Autoplay Policy Detection
+    - [ ] [[Autoplay Policy Detection](https://www.w3.org/TR/autoplay-detection/)] `draft standard`
+        - Deliverers: [[Media Working Group](/groups/wg/media/)]
+        - Tags: Browser, Media, Web API
+- Badging API
+    - [ ] [[Badging API](https://www.w3.org/TR/badging/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Battery Status API
+    - [ ] [[Battery Status API](https://www.w3.org/TR/battery-status/)] `draft standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+- Beacon
+    - [ ] [[Beacon](https://www.w3.org/TR/beacon/)] `candidate standard`
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance
+- Best Practices for Publishing Linked Data
+    - [ ] [[Best Practices for Publishing Linked Data](https://www.w3.org/TR/ld-bp/)] `note`
+        - Deliverers: [[Government Linked Data Working Group](/groups/wg/linkeddata/)]
+        - Tags: Data
+- CC/PP
+    - [ ] [[Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies 1.0](https://www.w3.org/TR/CCPP-struct-vocab/)] 
+        - Deliverers: [[Device Independence Working Group](/groups/wg/di/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/ccpp-struct-vocab-20040115/)]
+- CCXML
+    - [ ] [[Voice Browser Call Control: CCXML Version 1.0](https://www.w3.org/TR/ccxml/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+- COWL
+    - [ ] [[Confinement with Origin Web Labels](https://www.w3.org/TR/COWL/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- CSP
+    - [ ] [[Content Security Policy Level 2](https://www.w3.org/TR/CSP2/)] 
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- CSS
+    - [ ] [[Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification](https://www.w3.org/TR/CSS2/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+        - Translations: [[日本語](http://momdo.s35.xrea.com/web-html-test/spec/CSS21/cover.html)]
+- CSS Anchor Positioning
+    - [ ] [[CSS Anchor Positioning](https://www.w3.org/TR/css-anchor-position-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Backgrounds and Borders
+    - [ ] [[CSS Backgrounds and Borders Module Level 3](https://www.w3.org/TR/css-backgrounds-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Basic User Interface
+    - [ ] [[CSS Basic User Interface Module Level 3 (CSS3 UI)](https://www.w3.org/TR/css-ui-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+        - Translations: [[日本語](https://momdo.github.io/css-ui/)]
+- CSS Box Alignment
+    - [ ] [[CSS Box Alignment Module Level 3](https://www.w3.org/TR/css-align-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Box Model
+    - [ ] [[CSS Box Model Module Level 3](https://www.w3.org/TR/css-box-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+        - Translations: [[العربية](https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0007.html)]
+- CSS Box Sizing
+    - [ ] [[CSS Box Sizing Module Level 3](https://www.w3.org/TR/css-sizing-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Box Sizing Module Level 4](https://www.w3.org/TR/css-sizing-4/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Cascading and Inheritance
+    - [ ] [[CSS Cascading and Inheritance Level 3](https://www.w3.org/TR/css-cascade-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Color
+    - [ ] [[CSS Color Module Level 3](https://www.w3.org/TR/css-color-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Color Adjustment
+    - [ ] [[CSS Color Adjustment Module Level 1](https://www.w3.org/TR/css-color-adjust-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Color HDR
+    - [ ] [[CSS Color HDR Module Level 1](https://www.w3.org/TR/css-color-hdr-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Graphics
+- CSS Conditional Rules
+    - [ ] [[CSS Conditional Rules Module Level 3](https://www.w3.org/TR/css-conditional-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Conditional Rules Module Level 4](https://www.w3.org/TR/css-conditional-4/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Containment
+    - [ ] [[CSS Containment Module Level 1](https://www.w3.org/TR/css-contain-1/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Counter Styles
+    - [ ] [[CSS Counter Styles Level 3](https://www.w3.org/TR/css-counter-styles-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Custom Highlight API
+    - [ ] [[CSS Custom Highlight API Module Level 1](https://www.w3.org/TR/css-highlight-api-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Custom Properties for Cascading Variables
+    - [ ] [[CSS Custom Properties for Cascading Variables Module Level 1](https://www.w3.org/TR/css-variables-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Display
+    - [ ] [[CSS Display Module Level 3](https://www.w3.org/TR/css-display-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Easing Functions
+    - [ ] [[CSS Easing Functions Level 1](https://www.w3.org/TR/css-easing-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Exclusions
+    - [ ] [[CSS Exclusions Module Level 1](https://www.w3.org/TR/css3-exclusions/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Fill and Stroke
+    - [ ] [[CSS Fill and Stroke Module Level 3](https://www.w3.org/TR/fill-stroke-3/)] `draft standard`
+        - Deliverers: [[SVG Working Group](/groups/wg/svg/)], [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Flexible Box Layout
+    - [ ] [[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Font Loading
+    - [ ] [[CSS Font Loading Module Level 3](https://www.w3.org/TR/css-font-loading-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Web Fonts
+- CSS Fonts
+    - [ ] [[CSS Fonts Module Level 3](https://www.w3.org/TR/css-fonts-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, i18n, Web Fonts
+        - Translations: [[日本語](https://triple-underscore.github.io/css-fonts-ja.html)]
+- CSS Forms
+    - [ ] [[CSS Form Control Styling Level 1](https://www.w3.org/TR/css-forms-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Fragmentation
+    - [ ] [[CSS Fragmentation Module Level 3](https://www.w3.org/TR/css-break-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Functions and Mixins Module
+    - [ ] [[CSS Functions and Mixins Module](https://www.w3.org/TR/css-mixins-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Gap Decorations
+    - [ ] [[CSS Gap Decorations Module Level 1](https://www.w3.org/TR/css-gaps-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Generated Content
+    - [ ] [[CSS Generated Content Module Level 3](https://www.w3.org/TR/css-content-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Generated Content for Paged Media
+    - [ ] [[CSS Generated Content for Paged Media Module](https://www.w3.org/TR/css-gcpm-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Grid Layout
+    - [ ] [[CSS Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Grid Layout Module Level 2](https://www.w3.org/TR/css-grid-2/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Images
+    - [ ] [[CSS Images Module Level 3](https://www.w3.org/TR/css-images-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Inline Layout
+    - [ ] [[CSS Inline Layout Module Level 3](https://www.w3.org/TR/css-inline-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Layout API
+    - [ ] [[CSS Layout API Level 1](https://www.w3.org/TR/css-layout-api-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Line Grid
+    - [ ] [[CSS Line Grid Module Level 1](https://www.w3.org/TR/css-line-grid-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Lists and Counters
+    - [ ] [[CSS Lists and Counters Module Level 3](https://www.w3.org/TR/css-lists-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, i18n
+- CSS Logical Properties and Values
+    - [ ] [[CSS Logical Properties and Values Level 1](https://www.w3.org/TR/css-logical-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Masking
+    - [ ] [[CSS Masking Module Level 1](https://www.w3.org/TR/css-masking-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Graphics
+- CSS Multi-column Layout
+    - [ ] [[CSS Multi-column Layout Module Level 1](https://www.w3.org/TR/css-multicol-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Namespaces
+    - [ ] [[CSS Namespaces Module Level 3](https://www.w3.org/TR/css-namespaces-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+        - Translations: [[日本語](http://momdo.s35.xrea.com/web-html-test/spec/REC-css-namespaces-3-20140320.html)], [[한국어](http://techhtml.github.io/css3-namespace/)], [[polski](https://shebang.pl/css/modul-przestrzenie-nazw-css-poziom-3/)]
+- CSS Overflow
+    - [ ] [[CSS Overflow Module Level 3](https://www.w3.org/TR/css-overflow-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Overflow Module Level 4](https://www.w3.org/TR/css-overflow-4/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Overflow Module Level 5](https://www.w3.org/TR/css-overflow-5/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Overscroll Behavior
+    - [ ] [[CSS Overscroll Behavior Module Level 1](https://www.w3.org/TR/css-overscroll-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Page Floats
+    - [ ] [[CSS Page Floats](https://www.w3.org/TR/css-page-floats-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Paged Media
+    - [ ] [[CSS Paged Media Module Level 3](https://www.w3.org/TR/css-page-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Painting API
+    - [ ] [[CSS Painting API Level 1](https://www.w3.org/TR/css-paint-api-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Positioned Layout
+    - [ ] [[CSS Positioned Layout Module Level 3](https://www.w3.org/TR/css-position-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Properties and Values API
+    - [ ] [[CSS Properties and Values API Level 1](https://www.w3.org/TR/css-properties-values-api-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Pseudo-Elements
+    - [ ] [[CSS Pseudo-Elements Module Level 4](https://www.w3.org/TR/css-pseudo-4/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Regions
+    - [ ] [[CSS Regions Module Level 1](https://www.w3.org/TR/css-regions-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Rhythmic Sizing
+    - [ ] [[CSS Rhythmic Sizing](https://www.w3.org/TR/css-rhythm-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Round Display
+    - [ ] [[CSS Round Display Level 1](https://www.w3.org/TR/css-round-display-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Ruby
+    - [ ] [[CSS Ruby Annotation Layout Module Level 1](https://www.w3.org/TR/css-ruby-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, i18n
+- CSS Scoping
+    - [ ] [[CSS Scoping Module Level 1](https://www.w3.org/TR/css-scoping-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Scroll Anchoring
+    - [ ] [[CSS Scroll Anchoring Module Level 1](https://www.w3.org/TR/css-scroll-anchoring-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Scroll Snap
+    - [ ] [[CSS Scroll Snap Module Level 1](https://www.w3.org/TR/css-scroll-snap-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Scrollbars
+    - [ ] [[CSS Scrollbars Styling Module Level 1](https://www.w3.org/TR/css-scrollbars-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Shadow Parts
+    - [ ] [[CSS Shadow Parts](https://www.w3.org/TR/css-shadow-parts-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Shapes
+    - [ ] [[CSS Shapes Module Level 1](https://www.w3.org/TR/css-shapes-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Spatial Navigation
+    - [ ] [[CSS Spatial Navigation Level 1](https://www.w3.org/TR/css-nav-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Speech
+    - [ ] [[CSS Speech Module Level 1](https://www.w3.org/TR/css-speech-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Media
+- CSS Style Attributes
+    - [ ] [[CSS Style Attributes](https://www.w3.org/TR/css-style-attr/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, HTML
+        - Translations: [[Deutsch](http://www.schumacher-netz.de/TR/2013/REC-css-style-attr-20131107.de.html)], [[한국어](http://techhtml.github.io/css-style-attr/)], [[polski](https://shebang.pl/css/atrybuty-stylu-css/)], [[русский](http://topolyan.com/w3c/css-style-attributes-ru.html)]
+- CSS Syntax
+    - [ ] [[CSS Syntax Module Level 3](https://www.w3.org/TR/css-syntax-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Table
+    - [ ] [[CSS Table Module Level 3](https://www.w3.org/TR/css-tables-3/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Template Layout
+    - [ ] [[CSS Template Layout Module](https://www.w3.org/TR/css-template-3/)] `note`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Text
+    - [ ] [[CSS Text Module Level 3](https://www.w3.org/TR/css-text-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, i18n
+- CSS Text Decoration
+    - [ ] [[CSS Text Decoration Module Level 3](https://www.w3.org/TR/css-text-decor-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Transforms
+    - [ ] [[CSS Transforms Module Level 1](https://www.w3.org/TR/css-transforms-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Transitions
+    - [ ] [[CSS Transitions](https://www.w3.org/TR/css-transitions-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Transitions Level 2](https://www.w3.org/TR/css-transitions-2/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Values and Units
+    - [ ] [[CSS Values and Units Module Level 3](https://www.w3.org/TR/css-values-3/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS View Transitions
+    - [ ] [[CSS View Transitions Module Level 1](https://www.w3.org/TR/css-view-transitions-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: Browser, CSS
+- CSS Viewport
+    - [ ] [[CSS Viewport Module Level 1](https://www.w3.org/TR/css-viewport-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Will Change
+    - [ ] [[CSS Will Change Module Level 1](https://www.w3.org/TR/css-will-change-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- CSS Writing Modes
+    - [ ] [[CSS Writing Modes Level 3](https://www.w3.org/TR/css-writing-modes-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+        - Translations: [[日本語](https://triple-underscore.github.io/css-writing-modes3-ja.html)]
+- CSSOM
+    - [ ] [[CSS Object Model (CSSOM)](https://www.w3.org/TR/cssom-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Typed OM Level 1](https://www.w3.org/TR/css-typed-om-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSSOM View Module](https://www.w3.org/TR/cssom-view-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- Character Model for the World Wide Web
+    - [ ] [[Character Model for the World Wide Web 1.0: Fundamentals](https://www.w3.org/TR/charmod/)] 
+        - Deliverers: [[Internationalization Working Group](/groups/wg/i18n-core/)]
+        - Tags: i18n, Web Fonts
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/charmod-20050215/)], [[日本語](https://triple-underscore.github.io/charmod-ja.html)]
+- Clear Site Data
+    - [ ] [[Clear Site Data](https://www.w3.org/TR/clear-site-data/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- Client-Edge-Cloud coordination
+- Clipboard API and events
+    - [ ] [[Clipboard API and events](https://www.w3.org/TR/clipboard-apis/)] `draft standard`
+        - Deliverers: [[Web Editing Working Group](/groups/wg/webediting/)]
+        - Tags: Web API
+- Cloud Browser Architecture
+    - [ ] [[Cloud Browser Architecture](https://www.w3.org/TR/cloud-browser-arch/)] `note`
+        - Deliverers: [[Media and Entertainment Interest Group](/groups/ig/me/)]
+        - Tags: Media
+- Compositing and Blending
+    - [ ] [[Compositing and Blending Level 1](https://www.w3.org/TR/compositing-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Graphics
+- Compute Pressure API
+    - [ ] [[Compute Pressure Level 1](https://www.w3.org/TR/compute-pressure/)] `candidate standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+- Contact Picker API
+    - [ ] [[Contact Picker API](https://www.w3.org/TR/contact-picker/)] `draft standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)], [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Controlled Identifiers
+    - [ ] [[Controlled Identifiers v1.0](https://www.w3.org/TR/cid-1.0/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+- Cooperative Scheduling of Background Tasks
+    - [ ] [[requestIdleCallback()](https://www.w3.org/TR/requestidlecallback/)] `draft standard`
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance, Web API
+- Credential Management
+    - [ ] [[Credential Management Level 1](https://www.w3.org/TR/credential-management-1/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+    - [ ] [[Federated Credential Management API](https://www.w3.org/TR/fedcm-1/)] `draft standard`
+        - Deliverers: [[Federated Identity Working Group](/groups/wg/fedid/)]
+        - Tags: Browser, Privacy, Web API
+- DCAT
+    - [ ] [[Data Catalog Vocabulary (DCAT) - Version 3](https://www.w3.org/TR/vocab-dcat-3/)] 
+        - Deliverers: [[Dataset Exchange Working Group](/groups/wg/dx/)]
+        - Tags: Data
+- DID
+    - [ ] [[Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)] 
+        - Deliverers: [[Decentralized Identifier Working Group](/groups/wg/did/)]
+        - Tags: Privacy, Security
+        - Translations: [[日本語](https://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-did-core-20220719.html)], [[한국어](https://lukasjhan.github.io/did-core/)], [[português (Brasil)](https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0004.html)], [[Tagalog](https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0012.html)], [[中文（简体）](https://translated-did-core.github.io)]
+- DOM
+    - [ ] [[DOM](https://www.w3.org/TR/dom/)] 
+        - Deliverers: [[HTML Working Group](/groups/wg/htmlwg/)]
+        - Tags: DOM
+    - [ ] [[Document Object Model (DOM) Level 3 Load and Save Specification](https://www.w3.org/TR/DOM-Level-3-LS/)] 
+        - Deliverers: [[Document Object Model Working Group](/groups/wg/dom/)]
+        - Tags: DOM
+    - [ ] [[Document Object Model (DOM) Level 3 Validation Specification](https://www.w3.org/TR/DOM-Level-3-Val/)] 
+        - Deliverers: [[Document Object Model Working Group](/groups/wg/dom/)]
+        - Tags: DOM
+- Data on the Web Best Practices
+    - [ ] [[Data on the Web Best Practices](https://www.w3.org/TR/dwbp/)] 
+        - Deliverers: [[Data on the Web Best Practices Working Group](/groups/wg/dwbp/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/REC-dwbp-20170131.html)], [[português (Brasil)](https://www.w3.org/Translations/DWBP-pt-BR/)]
+- Dataset exchange
+    - [ ] [[Content Negotiation by Profile](https://www.w3.org/TR/dx-prof-conneg/)] `draft standard`
+        - Deliverers: [[Dataset Exchange Working Group](/groups/wg/dx/)]
+        - Tags: Data
+- Device API Requirements
+    - [ ] [[Device API Access Control Use Cases and Requirements](https://www.w3.org/TR/dap-policy-reqs/)] `note`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+    - [ ] [[Device API Privacy Requirements](https://www.w3.org/TR/dap-privacy-reqs/)] `note`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+    - [ ] [[Device APIs Requirements](https://www.w3.org/TR/dap-api-reqs/)] `note`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+    - [ ] [[Requirements for Home Networking Scenarios](https://www.w3.org/TR/hnreq/)] `note`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)], [[Media and Entertainment Interest Group](/groups/ig/me/)]
+        - Tags: Media
+    - [ ] [[Review of apps that use network information](https://www.w3.org/TR/netinfo-usecases/)] `note`
+        - Deliverers: [[Web and Mobile Interest Group](/groups/ig/webmobile/)]
+        - Tags: Web API
+- Device Description
+    - [ ] [[Device Description Repository Simple API](https://www.w3.org/TR/DDR-Simple-API/)] 
+        - Deliverers: [[Mobile Web Initiative Device Description Working Group](/groups/wg/dd/)]
+- Device Independence
+    - [ ] [[Authoring Challenges for Device Independence](https://www.w3.org/TR/acdi/)] `note`
+        - Deliverers: [[Device Independence Working Group](/groups/wg/di/)]
+    - [ ] [[Authoring Techniques for Device Independence](https://www.w3.org/TR/di-atdi/)] `note`
+        - Deliverers: [[Device Independence Working Group](/groups/wg/di/)]
+    - [ ] [[Delivery Context Overview for Device Independence](https://www.w3.org/TR/di-dco/)] `note`
+        - Deliverers: [[Device Independence Working Group](/groups/wg/di/)]
+    - [ ] [[Device Independence Principles](https://www.w3.org/TR/di-princ/)] `note`
+        - Deliverers: [[Device Independence Working Group](/groups/wg/di/)]
+- Device Memory
+    - [ ] [[Device Memory](https://www.w3.org/TR/device-memory-1/)] `draft standard`
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance
+- Device Posture
+    - [ ] [[Device Posture API](https://www.w3.org/TR/device-posture/)] `candidate standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+- DeviceOrientation Event
+    - [ ] [[Device Orientation and Motion](https://www.w3.org/TR/orientation-event/)] `candidate standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)], [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Digital Publishing
+    - [ ] [[Priorities for CSS from the Digital Publishing Interest Group](https://www.w3.org/TR/dpub-css-priorities/)] `draft standard`
+        - Deliverers: [[Digital Publishing Interest Group](/groups/ig/publishing/)]
+        - Tags: CSS, Digital Publishing
+- Distributed Tracing
+    - [ ] [[Trace Context](https://www.w3.org/TR/trace-context-1/)] 
+        - Deliverers: [[Distributed Tracing Working Group](/groups/wg/distributed-tracing/)]
+        - Tags: Performance
+- EARL
+    - [ ] [[Research Report on Web Accessibility Metrics](https://www.w3.org/TR/accessibility-metrics-report/)] `draft standard`
+        - Deliverers: [[Research and Development Working Group](/groups/wg/wai-rd/)]
+        - Tags: Accessibility
+- EME
+    - [ ] [[Encrypted Media Extensions](https://www.w3.org/TR/encrypted-media-1/)] 
+        - Deliverers: [[HTML Media Extensions Working Group](/groups/wg/html/)]
+        - Tags: HTML, Web API
+- EMMA
+    - [ ] [[EMMA: Extensible MultiModal Annotation markup language](https://www.w3.org/TR/emma/)] 
+        - Deliverers: [[Multimodal Interaction Working Group](/groups/wg/mmi/)]
+- EPUB
+    - [ ] [[EPUB 3.3](https://www.w3.org/TR/epub-33/)] 
+        - Deliverers: [[Publishing Maintenance Working Group](/groups/wg/pm/)]
+        - Tags: Digital Publishing
+    - [ ] [[EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/)] 
+        - Deliverers: [[Publishing Maintenance Working Group](/groups/wg/pm/)]
+        - Tags: Accessibility, Digital Publishing
+    - [ ] [[EPUB Reading Systems 3.3](https://www.w3.org/TR/epub-rs-33/)] 
+        - Deliverers: [[Publishing Maintenance Working Group](/groups/wg/pm/)]
+        - Tags: Digital Publishing
+- EXI
+    - [ ] [[Canonical EXI](https://www.w3.org/TR/exi-c14n/)] 
+        - Deliverers: [[Efficient Extensible Interchange  Working Group](/groups/wg/exi/)]
+        - Tags: XML
+    - [ ] [[Efficient XML Interchange (EXI) Format 1.0 (Second Edition)](https://www.w3.org/TR/exi/)] 
+        - Deliverers: [[Efficient Extensible Interchange  Working Group](/groups/wg/exi/)]
+        - Tags: XML
+    - [ ] [[Efficient XML Interchange (EXI) Profile for limiting usage of dynamic memory](https://www.w3.org/TR/exi-profile/)] 
+        - Deliverers: [[Efficient Extensible Interchange  Working Group](/groups/wg/exi/)]
+        - Tags: XML
+- Edit Context API
+    - [ ] [[EditContext API](https://www.w3.org/TR/edit-context/)] `draft standard`
+        - Deliverers: [[Web Editing Working Group](/groups/wg/webediting/)]
+        - Tags: Web API
+- EmotionML
+    - [ ] [[Emotion Markup Language (EmotionML) 1.0](https://www.w3.org/TR/emotionml/)] 
+        - Deliverers: [[Multimodal Interaction Working Group](/groups/wg/mmi/)]
+- Ethics for the Web
+    - [ ] [[Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/)] `statement`
+        - Deliverers: [[Technical Architecture Group](/groups/other/tag/)]
+        - Translations: [[中文（简体）](https://www.w3.org/Translations/ethical-web-principles-zh/Overview.html)]
+- Fetch Metadata Request Headers
+    - [ ] [[Fetch Metadata Request Headers](https://www.w3.org/TR/fetch-metadata/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- File API
+    - [ ] [[File API](https://www.w3.org/TR/FileAPI/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Filter Effects
+    - [ ] [[Filter Effects Module Level 1](https://www.w3.org/TR/filter-effects-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Graphics
+- GRDDL
+    - [ ] [[GRDDL Test Cases](https://www.w3.org/TR/grddl-tests/)] 
+        - Deliverers: [[GRDDL Working Group](/groups/wg/grddl/)]
+        - Tags: Data
+    - [ ] [[Gleaning Resource Descriptions from Dialects of Languages (GRDDL)](https://www.w3.org/TR/grddl/)] 
+        - Deliverers: [[GRDDL Working Group](/groups/wg/grddl/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/grddl/)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/grddl/rec-grddl-20070911.html)]
+- Gamepad
+    - [ ] [[Gamepad](https://www.w3.org/TR/gamepad/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Geolocation API
+    - [ ] [[Geolocation](https://www.w3.org/TR/geolocation/)] 
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)], [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Geometry Interfaces
+    - [ ] [[Geometry Interfaces Module Level 1](https://www.w3.org/TR/geometry-1/)] `candidate standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Graphics
+- Geospatial data
+    - [ ] [[Points of Interest Core](https://www.w3.org/TR/poi-core/)] `draft standard`
+        - Deliverers: [[Points of Interest Working Group](/groups/wg/poi/)]
+- Global Privacy Control
+    - [ ] [[Global Privacy Control (GPC)](https://www.w3.org/TR/gpc/)] `draft standard`
+        - Deliverers: [[Privacy Working Group](/groups/wg/privacy/)]
+        - Tags: Privacy
+- HCLS
+    - [ ] [[A Prototype Knowledge Base for the Life Sciences](https://www.w3.org/TR/hcls-kb/)] `note`
+        - Deliverers: [[Semantic Web Health Care and Life Sciences Interest Group](/groups/ig/hcls/)]
+    - [ ] [[Dataset Descriptions: HCLS Community Profile](https://www.w3.org/TR/hcls-dataset/)] `note`
+        - Deliverers: [[Semantic Web Health Care and Life Sciences Interest Group](/groups/ig/hcls/)]
+    - [ ] [[Experiences with the conversion of SenseLab databases to RDF/OWL](https://www.w3.org/TR/hcls-senselab/)] `note`
+        - Deliverers: [[Semantic Web Health Care and Life Sciences Interest Group](/groups/ig/hcls/)]
+    - [ ] [[Ontology of Rhetorical Blocks (ORB)](https://www.w3.org/TR/hcls-orb/)] `note`
+        - Deliverers: [[Semantic Web Health Care and Life Sciences Interest Group](/groups/ig/hcls/)]
+    - [ ] [[SIOC, SIOC Types and Health Care and Life Sciences](https://www.w3.org/TR/hcls-sioc/)] `note`
+        - Deliverers: [[Semantic Web Health Care and Life Sciences Interest Group](/groups/ig/hcls/)]
+    - [ ] [[SWAN/SIOC: Alignment Between the SWAN and SIOC Ontologies](https://www.w3.org/TR/hcls-swansioc/)] `note`
+        - Deliverers: [[Semantic Web Health Care and Life Sciences Interest Group](/groups/ig/hcls/)]
+    - [ ] [[Semantic Web Applications in Neuromedicine (SWAN) Ontology](https://www.w3.org/TR/hcls-swan/)] `note`
+        - Deliverers: [[Semantic Web Health Care and Life Sciences Interest Group](/groups/ig/hcls/)]
+- HTML
+    - [ ] [[HTML](https://www.w3.org/TR/html/)] 
+        - Deliverers: [[HTML Working Group](/groups/wg/htmlwg/)]
+    - [ ] [[HTML Media Capture](https://www.w3.org/TR/html-media-capture/)] 
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: HTML, Media, Web API
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/media/REC-html-media-capture-20180201.html)], [[한국어](https://techhtml.github.io/html-media-capture/)], [[русский](http://topolyan.com/w3c/html_media_capture_ru.html)]
+    - [ ] [[HTML5 Image Description Extension (longdesc)](https://www.w3.org/TR/html-longdesc/)] 
+        - Deliverers: [[HTML Media Extensions Working Group](/groups/wg/html/)]
+        - Tags: HTML
+    - [ ] [[Ruby Annotation](https://www.w3.org/TR/ruby/)] 
+        - Deliverers: [[Internationalization Working Group](/groups/wg/i18n-core/)]
+        - Tags: HTML, i18n
+        - Translations: [[Deutsch](http://meiert.com/de/w3/TR/ruby/)], [[français](http://www.yoyodesign.org/doc/w3c/ruby/)], [[日本語](http://www.doraneko.org/misc/ruby/REC010531.html)], [[polski](http://podziemie.net/w3c/ruby/ruby)]
+    - [ ] [[XML Events](https://www.w3.org/TR/xml-events/)] 
+        - Deliverers: [[XHTML2 Working Group](/groups/wg/xhtml2/)]
+        - Tags: DOM, XML
+        - Translations: [[Deutsch](http://www.schumacher-netz.de/TR/2003/REC-xml-events-20031014-de.html)], [[français](http://www.lacot.org/w3c/REC-xml-events-20031014/)], [[polski](http://www.antyspam.pl/w3c/REC-xml-events-20031014/)]
+- ITS
+    - [ ] [[Internationalization Tag Set (ITS) Version 1.0](https://www.w3.org/TR/its/)] 
+        - Deliverers: [[Internationalization Tag Set (ITS) Working Group](/groups/wg/i18n-its/)]
+        - Tags: i18n
+        - Translations: [[français](http://yoyodesign.org/doc/w3c/its1/Overview.html)]
+    - [ ] [[Internationalization Tag Set (ITS) Version 2.0](https://www.w3.org/TR/its20/)] 
+        - Deliverers: [[MultilingualWeb-LT Working Group](/groups/wg/multilingualweb-lt/)]
+        - Tags: Data, HTML, i18n
+        - Translations: [[日本語](https://momdo.github.io/its20/)]
+- Image Resource
+    - [ ] [[Image Resource](https://www.w3.org/TR/image-resource/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Inaccessibility of CAPTCHA
+- Incremental Font Transfer
+    - [ ] [[Incremental Font Transfer](https://www.w3.org/TR/IFT/)] `draft standard`
+        - Deliverers: [[Web Fonts Working Group](/groups/wg/webfonts/)]
+        - Tags: Browser, Protocol, Web API, Web Fonts
+- Indexed Database API
+    - [ ] [[Indexed Database API](https://www.w3.org/TR/IndexedDB/)] 
+        - Deliverers: [[(historical) Web Applications Working Group](/groups/wg/webapps-old/)]
+        - Tags: Web API
+    - [ ] [[Indexed Database API 2.0](https://www.w3.org/TR/IndexedDB-2/)] 
+        - Deliverers: [[Web Platform Working Group](/groups/wg/webplatform/)]
+        - Tags: Web API
+- IndieAuth
+    - [ ] [[IndieAuth](https://www.w3.org/TR/indieauth/)] `note`
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+- IndieUI
+    - [ ] [[IndieUI: Events 1.0](https://www.w3.org/TR/indie-ui-events/)] `draft standard`
+        - Deliverers: [[Independent User Interface (Indie UI) Working Group](/groups/wg/indie-ui/)]
+        - Tags: Accessibility
+    - [ ] [[IndieUI: User Context 1.0](https://www.w3.org/TR/indie-ui-context/)] `draft standard`
+        - Deliverers: [[Independent User Interface (Indie UI) Working Group](/groups/wg/indie-ui/)]
+        - Tags: Accessibility
+    - [ ] [[Requirements for IndieUI: Events 1.0 and IndieUI: User Context 1.0](https://www.w3.org/TR/indie-ui-requirements/)] `draft standard`
+        - Deliverers: [[Independent User Interface (Indie UI) Working Group](/groups/wg/indie-ui/)]
+        - Tags: Accessibility
+- InkML
+    - [ ] [[Ink Markup Language (InkML)](https://www.w3.org/TR/InkML/)] 
+        - Deliverers: [[Multimodal Interaction Working Group](/groups/wg/mmi/)]
+- Input Events
+    - [ ] [[Input Events Level 2](https://www.w3.org/TR/input-events-2/)] `draft standard`
+        - Deliverers: [[Web Editing Working Group](/groups/wg/webediting/)]
+- Internationalization for HTML
+    - [ ] [[Ready-made Counter Styles](https://www.w3.org/TR/predefined-counter-styles/)] `note`
+        - Deliverers: [[Internationalization Working Group](/groups/wg/i18n-core/)]
+        - Tags: CSS, i18n, XML
+- Internationalization for Spec Developers
+    - [ ] [[Language Tags and Locale Identifiers for the World Wide Web](https://www.w3.org/TR/ltli/)] `draft standard`
+        - Deliverers: [[Internationalization Working Group](/groups/wg/i18n-core/)]
+        - Tags: i18n
+- Intersection Observer
+    - [ ] [[Intersection Observer](https://www.w3.org/TR/intersection-observer/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: DOM
+- JSON-LD
+    - [ ] [[JSON-LD 1.1](https://www.w3.org/TR/json-ld11/)] 
+        - Deliverers: [[JSON-LD Working Group](/groups/wg/json-ld/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/lod/REC-json-ld11-20200716.html)]
+    - [ ] [[JSON-LD 1.1 Framing](https://www.w3.org/TR/json-ld11-framing/)] 
+        - Deliverers: [[JSON-LD Working Group](/groups/wg/json-ld/)]
+        - Tags: Data
+        - Translations: [[日本語](https://www.asahi-net.or.jp/~ax2s-kmtn/internet/lod/REC-json-ld11-framing-20200716.html)]
+    - [ ] [[JSON-LD 1.1 Processing Algorithms and API](https://www.w3.org/TR/json-ld11-api/)] 
+        - Deliverers: [[JSON-LD Working Group](/groups/wg/json-ld/)]
+        - Tags: Data
+- LBase: Semantics for Languages of the Semantic Web
+    - [ ] [[LBase: Semantics for Languages of the Semantic Web](https://www.w3.org/TR/lbase/)] `note`
+        - Deliverers: [[RDF Core Working Group](/groups/wg/rdfcore/)]
+        - Tags: Data
+- Language Gap Analysis
+- Lightweight Packaging Format (LPF)
+    - [ ] [[Lightweight Packaging Format (LPF)](https://www.w3.org/TR/lpf/)] `note`
+        - Deliverers: [[Audiobooks Working Group](/groups/wg/publishing/)]
+        - Tags: Digital Publishing
+        - Translations: [[中文（繁體）](https://dpublishing.github.io/audiobooks-specs-tc/lpf.html)]
+- Linked Data Platform
+    - [ ] [[Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)] 
+        - Deliverers: [[Linked Data Platform (LDP) Working Group](/groups/wg/ldp/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/lod/REC-ldp-20150226.html)]
+- MBUI
+    - [ ] [[Introduction to Model-Based User Interfaces](https://www.w3.org/TR/mbui-intro/)] `note`
+        - Deliverers: [[Model-Based User Interfaces Working Group](/groups/wg/mbuiwg/)]
+    - [ ] [[MBUI - Glossary](https://www.w3.org/TR/mbui-glossary/)] `note`
+        - Deliverers: [[Model-Based User Interfaces Working Group](/groups/wg/mbuiwg/)]
+- MMI
+    - [ ] [[Multimodal Architecture and Interfaces](https://www.w3.org/TR/mmi-arch/)] 
+        - Deliverers: [[Multimodal Interaction Working Group](/groups/wg/mmi/)]
+- MSE
+    - [ ] [[Media Source Extensions™](https://www.w3.org/TR/media-source-1/)] 
+        - Deliverers: [[HTML Media Extensions Working Group](/groups/wg/html/)]
+        - Tags: HTML, Web API
+- Manifest
+    - [ ] [[Web Application Manifest](https://www.w3.org/TR/appmanifest/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+- MathML
+    - [ ] [[A MathML for CSS Profile](https://www.w3.org/TR/mathml-for-css/)] 
+        - Deliverers: [[Math Working Group](/groups/wg/math/)]
+        - Tags: CSS
+        - Translations: [[日本語](http://takamu.sakura.ne.jp/mathml-for-css-ja.html)]
+    - [ ] [[Mathematical Markup Language (MathML) Version 3.0 2nd Edition](https://www.w3.org/TR/MathML3/)] 
+        - Deliverers: [[Math Working Group](/groups/wg/math/)]
+        - Translations: [[日本語](http://takamu.sakura.ne.jp/mathml3-ja/index.html)]
+- Media Capabilities
+    - [ ] [[Media Capabilities](https://www.w3.org/TR/media-capabilities/)] `draft standard`
+        - Deliverers: [[Media Working Group](/groups/wg/media/)]
+        - Tags: Media
+- Media Capture
+    - [ ] [[Media Capture and Streams](https://www.w3.org/TR/mediacapture-streams/)] `candidate standard`
+        - Deliverers: [[Web Real-Time Communications Working Group](/groups/wg/webrtc/)]
+        - Tags: Media, Web API
+- Media Fragments
+    - [ ] [[Media Fragments URI 1.0 (basic)](https://www.w3.org/TR/media-frags/)] 
+        - Deliverers: [[Media Fragments Working Group](/groups/wg/media-fragment/)]
+        - Tags: Media
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/media/REC-media-frags-10-20120925.html)]
+- Media Queries
+    - [ ] [[Media Queries Level 3](https://www.w3.org/TR/mediaqueries-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- Media Resources
+    - [ ] [[Metadata API for Media Resources 1.0](https://www.w3.org/TR/mediaont-api-1.0/)] 
+        - Deliverers: [[Media Annotations Working Group](/groups/wg/media-annotation/)]
+        - Tags: Media, Web API
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/media/REC-mediaont-api-1.0-20140313.html)]
+    - [ ] [[Ontology for Media Resources 1.0](https://www.w3.org/TR/mediaont-10/)] 
+        - Deliverers: [[Media Annotations Working Group](/groups/wg/media-annotation/)]
+        - Tags: Media
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/media/REC-mediaont-10-20120209.html)]
+- Media Session
+    - [ ] [[Media Session](https://www.w3.org/TR/mediasession/)] `draft standard`
+        - Deliverers: [[Media Working Group](/groups/wg/media/)]
+        - Tags: Media
+- Media Timed Events
+    - [ ] [[Requirements for Media Timed Events](https://www.w3.org/TR/media-timed-events/)] `note`
+        - Deliverers: [[Media and Entertainment Interest Group](/groups/ig/me/)]
+        - Tags: Media
+- MiniApp
+    - [ ] [[MiniApp Lifecycle](https://www.w3.org/TR/miniapp-lifecycle/)] `draft standard`
+        - Deliverers: [[MiniApps Working Group](/groups/wg/miniapps/)]
+        - Tags: Web API
+    - [ ] [[MiniApp Manifest](https://www.w3.org/TR/miniapp-manifest/)] `draft standard`
+        - Deliverers: [[MiniApps Working Group](/groups/wg/miniapps/)]
+    - [ ] [[MiniApp Packaging](https://www.w3.org/TR/miniapp-packaging/)] `draft standard`
+        - Deliverers: [[MiniApps Working Group](/groups/wg/miniapps/)]
+- Mixed Content
+    - [ ] [[Mixed Content](https://www.w3.org/TR/mixed-content/)] `candidate standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+    - [ ] [[Upgrade Insecure Requests](https://www.w3.org/TR/upgrade-insecure-requests/)] `candidate standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- Mobile Best Practices
+    - [ ] [[Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/)] 
+        - Deliverers: [[Mobile Web Best Practices Working Group](/groups/wg/bp/)]
+    - [ ] [[Mobile Web Best Practices 1.0](https://www.w3.org/TR/mobile-bp/)] 
+        - Deliverers: [[Mobile Web Best Practices Working Group](/groups/wg/bp/)]
+        - Tags: HTML
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/mobile-bp/)]
+    - [ ] [[W3C mobileOK Basic Tests 1.0](https://www.w3.org/TR/mobileOK-basic10-tests/)] 
+        - Deliverers: [[Mobile Web Best Practices Working Group](/groups/wg/bp/)]
+- Mobile Web for Social Development
+    - [ ] [[Mobile Web for Social Development Roadmap](https://www.w3.org/TR/mw4d-roadmap/)] `note`
+        - Deliverers: [[Mobile Web For Social Development (MW4D) Interest Group](/groups/ig/mw4d/)]
+        - Tags: Media
+- Motion Path
+    - [ ] [[Motion Path Module Level 1](https://www.w3.org/TR/motion-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Graphics
+- Multi-screen support
+    - [ ] [[Presentation API](https://www.w3.org/TR/presentation-api/)] `candidate standard`
+        - Deliverers: [[Second Screen Working Group](/groups/wg/secondscreen/)]
+        - Tags: Web API
+    - [ ] [[Remote Playback API](https://www.w3.org/TR/remote-playback/)] `candidate standard`
+        - Deliverers: [[Second Screen Working Group](/groups/wg/secondscreen/)]
+        - Tags: Web API
+- Network Error Logging
+    - [ ] [[Network Error Logging](https://www.w3.org/TR/network-error-logging/)] `draft standard`
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance, Web API
+- ODRL
+    - [ ] [[ODRL Information Model 2.2](https://www.w3.org/TR/odrl-model/)] 
+        - Deliverers: [[Permissions and Obligations Expression Working Group](/groups/wg/poe/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rights/REC-odrl-model-20180215.html)]
+    - [ ] [[ODRL Vocabulary & Expression 2.2](https://www.w3.org/TR/odrl-vocab/)] 
+        - Deliverers: [[Permissions and Obligations Expression Working Group](/groups/wg/poe/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rights/REC-odrl-vocab-20180215.html)]
+- OWL
+    - [ ] [[OWL 2 Web Ontology Language Conformance (Second Edition)](https://www.w3.org/TR/owl2-conformance/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language Direct Semantics (Second Edition)](https://www.w3.org/TR/owl2-direct-semantics/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language Document Overview (Second Edition)](https://www.w3.org/TR/owl2-overview/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-owl2-overview-20121211.html)]
+    - [ ] [[OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition)](https://www.w3.org/TR/owl2-mapping-to-rdf/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language New Features and Rationale (Second Edition)](https://www.w3.org/TR/owl2-new-features/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language Primer (Second Edition)](https://www.w3.org/TR/owl2-primer/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language Profiles (Second Edition)](https://www.w3.org/TR/owl2-profiles/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language Quick Reference Guide (Second Edition)](https://www.w3.org/TR/owl2-quick-reference/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition)](https://www.w3.org/TR/owl2-rdf-based-semantics/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language Structural Specification and Functional-Style Syntax (Second Edition)](https://www.w3.org/TR/owl2-syntax/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL 2 Web Ontology Language XML Serialization (Second Edition)](https://www.w3.org/TR/owl2-xml-serialization/)] 
+        - Deliverers: [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+    - [ ] [[OWL Web Ontology Language Guide](https://www.w3.org/TR/owl-guide/)] 
+        - Deliverers: [[Web Ontology Working Group](/groups/wg/webont/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/owl-guide-20040210/)], [[magyar](http://www.w3c.hu/forditasok/OWL/REC-owl-guide-20040210.html)], [[italiano](http://digilander.libero.it/giovannideangelis/OWLWebOntologyLanguageGuida.htm)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rec-owl-guide-20040210.html)], [[日本語](http://www.y-adagio.com/public/standards/ts_owl_guide/toc.htm)], [[русский](http://sherdim.rsu.ru/pts/semantic_web/REC-owl-guide-20040210_ru.html)], [[中文（简体）](http://zh.transwiki.org/cn/owlguide.htm)], [[中文（繁體）](http://www.certifiedchinesetranslation.com/openaccess/owlguide-tc.html)]
+    - [ ] [[OWL Web Ontology Language Overview](https://www.w3.org/TR/owl-features/)] 
+        - Deliverers: [[Web Ontology Working Group](/groups/wg/webont/)]
+        - Tags: Data
+        - Translations: [[español](https://www.w3.org/2007/09/OWL-Overview-es.html)], [[français](http://www.yoyodesign.org/doc/w3c/owl-features-20040210/)], [[magyar](http://www.w3c.hu/forditasok/OWL/REC-owl-features-20040210.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rec-owl-features-20040210.html)], [[日本語](http://www.y-adagio.com/public/standards/ts_owl_overview/toc.htm)], [[русский](http://sherdim.rsu.ru/pts/semantic_web/REC-owl-features-20040210_ru.html)], [[中文（简体）](http://zh.transwiki.org/cn/owloverview.htm)], [[中文（繁體）](http://www.certifiedchinesetranslation.com/openaccess/owloverview.html)]
+    - [ ] [[OWL Web Ontology Language Reference](https://www.w3.org/TR/owl-ref/)] 
+        - Deliverers: [[Web Ontology Working Group](/groups/wg/webont/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/owl-ref-20040210/)], [[magyar](http://www.w3c.hu/forditasok/OWL/REC-owl-ref-20040210.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rec-owl-ref-20040210.html)], [[日本語](http://www.y-adagio.com/public/standards/ts_owl_reference/toc.htm)], [[中文（简体）](http://nkos.lib.szu.edu.cn/OWL/OWLWebOntologyLanguageReferenceSimplifiedChinese.htm)]
+    - [ ] [[OWL Web Ontology Language Semantics and Abstract Syntax](https://www.w3.org/TR/owl-semantics/)] 
+        - Deliverers: [[Web Ontology Working Group](/groups/wg/webont/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/owl-semantics-20040210/)], [[magyar](http://www.w3c.hu/forditasok/OWL/REC-owl-semantics-20040210/main.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rec-owl-semantics-20040210/)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rec-owl-semantics-20040210/)], [[日本語](http://www.y-adagio.com/public/standards/ts_owl_semantics/toc.htm)]
+    - [ ] [[OWL Web Ontology Language Test Cases](https://www.w3.org/TR/owl-test/)] 
+        - Deliverers: [[Web Ontology Working Group](/groups/wg/webont/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/owl-test-20040210/)], [[magyar](http://www.w3c.hu/forditasok/OWL/REC-owl-test-20040210.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl-test/)]
+    - [ ] [[OWL Web Ontology Language Use Cases and Requirements](https://www.w3.org/TR/webont-req/)] 
+        - Deliverers: [[Web Ontology Working Group](/groups/wg/webont/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/webont-req-20040210/)], [[magyar](http://www.w3c.hu/forditasok/OWL/REC-webont-req-20040210.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rec-webont-req-20040210.html)], [[русский](https://www.w3.org/2006/04/OWL_UseCases-ru.html)]
+- PICS
+    - [ ] [[PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols](https://www.w3.org/TR/REC-PICS-labels/)] 
+        - Deliverers: 
+    - [ ] [[PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions](https://www.w3.org/TR/REC-PICS-services/)] 
+        - Deliverers: 
+    - [ ] [[PICS Signed Labels (DSig) 1.0 Specification](https://www.w3.org/TR/REC-DSig-label/)] 
+        - Deliverers: 
+    - [ ] [[PICSRules 1.1 Specification](https://www.w3.org/TR/REC-PICSRules/)] 
+        - Deliverers: 
+- PLS
+    - [ ] [[Pronunciation Lexicon Specification (PLS) Version 1.0](https://www.w3.org/TR/pronunciation-lexicon/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/ref/accessibility/REC-pronunciation-lexicon-20081014.html)]
+- PNG
+    - [ ] [[Portable Network Graphics (PNG) Specification (Second Edition)](https://www.w3.org/TR/PNG/)] 
+        - Deliverers: 
+        - Tags: Graphics
+- POWDER
+    - [ ] [[Protocol for Web Description Resources (POWDER): Description Resources](https://www.w3.org/TR/powder-dr/)] 
+        - Deliverers: [[Protocol for Web Description Resources (POWDER) Working Group](/groups/wg/powder/)]
+        - Tags: Data
+    - [ ] [[Protocol for Web Description Resources (POWDER): Formal Semantics](https://www.w3.org/TR/powder-formal/)] 
+        - Deliverers: [[Protocol for Web Description Resources (POWDER) Working Group](/groups/wg/powder/)]
+        - Tags: Data
+    - [ ] [[Protocol for Web Description Resources (POWDER): Grouping of Resources](https://www.w3.org/TR/powder-grouping/)] 
+        - Deliverers: [[Protocol for Web Description Resources (POWDER) Working Group](/groups/wg/powder/)]
+        - Tags: Data
+- PROV
+    - [ ] [[Constraints of the PROV Data Model](https://www.w3.org/TR/prov-constraints/)] 
+        - Deliverers: [[Provenance Working Group](/groups/wg/prov/)]
+        - Tags: Data
+    - [ ] [[PROV-DM: The PROV Data Model](https://www.w3.org/TR/prov-dm/)] 
+        - Deliverers: [[Provenance Working Group](/groups/wg/prov/)]
+        - Tags: Data
+    - [ ] [[PROV-N: The Provenance Notation](https://www.w3.org/TR/prov-n/)] 
+        - Deliverers: [[Provenance Working Group](/groups/wg/prov/)]
+        - Tags: Data
+    - [ ] [[PROV-O: The PROV Ontology](https://www.w3.org/TR/prov-o/)] 
+        - Deliverers: [[Provenance Working Group](/groups/wg/prov/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-prov-o-20130430.html)]
+- Password Management
+    - [ ] [[A Well-Known URL for Changing Passwords](https://www.w3.org/TR/change-password-url/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- Performance instrumentation
+    - [ ] [[High Resolution Time Level 2](https://www.w3.org/TR/hr-time-2/)] 
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance, Web API
+    - [ ] [[Navigation Timing](https://www.w3.org/TR/navigation-timing/)] 
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance, Web API
+        - Translations: [[français](http://lacot.org/w3c/REC-navigation-timing-20121217/)], [[日本語](https://triple-underscore.github.io/navigation-timing-ja.html)], [[русский](http://sherdim.ru/pts/semantic_web/REC-navigation-timing-20121217.ru.html)]
+    - [ ] [[Performance Timeline](https://www.w3.org/TR/performance-timeline/)] 
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance, Web API
+        - Translations: [[日本語](https://triple-underscore.github.io/performance-timeline-ja.html)], [[한국어](http://techhtml.github.io/performance-timeline/)]
+    - [ ] [[User Timing Level 2](https://www.w3.org/TR/user-timing-2/)] 
+        - Deliverers: [[Web Performance Working Group](/groups/wg/webperf/)]
+        - Tags: Performance, Web API
+- Permissions
+    - [ ] [[Permissions](https://www.w3.org/TR/permissions/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+    - [ ] [[Permissions Policy](https://www.w3.org/TR/permissions-policy-1/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security, Web API
+- Picture-in-Picture
+    - [ ] [[Picture-in-Picture](https://www.w3.org/TR/picture-in-picture/)] `draft standard`
+        - Deliverers: [[Media Working Group](/groups/wg/media/)]
+        - Tags: Media
+- Pointer Lock
+    - [ ] [[Pointer Lock](https://www.w3.org/TR/pointerlock/)] 
+        - Deliverers: [[Web Platform Working Group](/groups/wg/webplatform/)]
+        - Tags: Web API
+- Pointer and Touch Events
+    - [ ] [[Pointer Events](https://www.w3.org/TR/pointerevents2/)] 
+        - Deliverers: [[Pointer Events Working Group](/groups/wg/pointer-events/)]
+        - Tags: Web API
+        - Translations: [[日本語](https://triple-underscore.github.io/pointerevents-ja.html)]
+    - [ ] [[Touch Events](https://www.w3.org/TR/touch-events/)] 
+        - Deliverers: [[Web Events Working Group](/groups/wg/webevents/)]
+        - Tags: Web API
+- Post-Spectre
+    - [ ] [[Post-Spectre Web Development](https://www.w3.org/TR/post-spectre-webdev/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- Privacy-Preserving Attribution
+    - [ ] [[Privacy-Preserving Attribution: Level 1](https://www.w3.org/TR/privacy-preserving-attribution/)] `draft standard`
+        - Deliverers: [[Private Advertising Technology Working Group](/groups/wg/pat/)]
+        - Tags: Privacy
+- Push API
+    - [ ] [[Push API](https://www.w3.org/TR/push-api/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- QA Framework
+    - [ ] [[QA Framework: Specification Guidelines](https://www.w3.org/TR/qaframe-spec/)] 
+        - Deliverers: [[Quality Assurance Working Group](/groups/wg/qa/)]
+- RDB2RDF
+    - [ ] [[A Direct Mapping of Relational Data to RDF](https://www.w3.org/TR/rdb-direct-mapping/)] 
+        - Deliverers: [[RDB2RDF Working Group](/groups/wg/rdb2rdf/)]
+        - Tags: Data
+    - [ ] [[R2RML: RDB to RDF Mapping Language](https://www.w3.org/TR/r2rml/)] 
+        - Deliverers: [[RDB2RDF Working Group](/groups/wg/rdb2rdf/)]
+        - Tags: Data
+- RDF
+    - [ ] [[RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+        - Translations: [[français](http://www.emse.fr/~zimmermann/W3C/RDF1.1/)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdf11-concepts-20140225.html)]
+    - [ ] [[RDF 1.1 N-Quads](https://www.w3.org/TR/n-quads/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-n-quads-20140225.html)]
+    - [ ] [[RDF 1.1 N-Triples](https://www.w3.org/TR/n-triples/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-n-triples-20140225.html)]
+    - [ ] [[RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdf11-mt-20140225.html)]
+    - [ ] [[RDF 1.1 TriG](https://www.w3.org/TR/trig/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+    - [ ] [[RDF 1.1 Turtle](https://www.w3.org/TR/turtle/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-turtle-20140225.html)]
+    - [ ] [[RDF 1.1 XML Syntax](https://www.w3.org/TR/rdf-syntax-grammar/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdf-syntax-grammar-20140225.html)]
+    - [ ] [[RDF Dataset Canonicalization](https://www.w3.org/TR/rdf-canon/)] 
+        - Deliverers: [[RDF Dataset Canonicalization and Hash Working Group](/groups/wg/rch/)]
+        - Tags: Data
+    - [ ] [[RDF Primer](https://www.w3.org/TR/rdf-primer/)] 
+        - Deliverers: [[RDF Core Working Group](/groups/wg/rdfcore/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/rdf-primer/)], [[magyar](http://www.w3c.hu/forditasok/RDF/REC-rdf-primer-20040210.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/rdf-primer.html)], [[中文（简体）](http://zh.transwiki.org/cn/rdfprimer.htm)]
+    - [ ] [[RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)] 
+        - Deliverers: [[RDF Working Group](/groups/wg/rdf/)]
+        - Tags: Data
+        - Translations: [[dansk](https://lists.w3.org/Archives/Public/w3c-translators/2021JulSep/0012.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdf-schema-20140225.html)], [[português](https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0036.html)]
+    - [ ] [[RDF Semantics](https://www.w3.org/TR/rdf-mt/)] 
+        - Deliverers: [[RDF Core Working Group](/groups/wg/rdfcore/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/rdf-mt/)], [[magyar](http://www.w3c.hu/forditasok/RDF/REC-rdf-mt-20040210.html)]
+    - [ ] [[RDF Test Cases](https://www.w3.org/TR/rdf-testcases/)] 
+        - Deliverers: [[RDF Core Working Group](/groups/wg/rdfcore/)]
+        - Tags: Data
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/rdf-testcases/)], [[magyar](http://www.w3c.hu/forditasok/RDF/REC-rdf-testcases-20040210.html)]
+    - [ ] [[Resource Description Framework (RDF): Concepts and Abstract Syntax](https://www.w3.org/TR/rdf-concepts/)] 
+        - Deliverers: [[RDF Core Working Group](/groups/wg/rdfcore/)]
+        - Tags: Data
+        - Translations: [[français](http://lacot.org/w3c/REC-rdf-concepts-20040210/)], [[magyar](http://www.w3c.hu/forditasok/RDF/REC-rdf-concepts-20040210.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/rdf-concepts.html)], [[русский](https://www.w3.org/2007/03/rdf_concepts_ru/Overview.html)], [[中文（简体）](http://zh.transwiki.org/cn/rdfconcepts.htm)], [[中文（繁體）](http://www.certifiedchinesetranslation.com/openaccess/rdfconcepts-tc.html)]
+    - [ ] [[rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)](https://www.w3.org/TR/rdf-plain-literal/)] 
+        - Deliverers: [[Rule Interchange Format Working Group](/groups/wg/rif/)], [[OWL Working Group](/groups/wg/owl/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-rdf-plain-literal-20121211.html)]
+- RDF Vocabulary
+    - [ ] [[The Organization Ontology](https://www.w3.org/TR/vocab-org/)] 
+        - Deliverers: [[Government Linked Data Working Group](/groups/wg/linkeddata/)]
+        - Tags: Data
+        - Translations: [[dansk](https://lists.w3.org/Archives/Public/w3c-translators/2021JulSep/att-0012/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-vocab-org-20140116.html)], [[português (Brasil)](http://www.marisabr.my.proz.com/TheOrganizationOntology_PT-BR.htm)]
+    - [ ] [[The RDF Data Cube Vocabulary](https://www.w3.org/TR/vocab-data-cube/)] 
+        - Deliverers: [[Government Linked Data Working Group](/groups/wg/linkeddata/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-vocab-data-cube-20140116.html)]
+- RDFa
+    - [ ] [[HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)] 
+        - Deliverers: [[RDFa Working Group](/groups/wg/rdfa/)]
+        - Tags: Data, HTML
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-html-rdfa-20150317.html)]
+    - [ ] [[RDFa Core 1.1 - Third Edition](https://www.w3.org/TR/rdfa-core/)] 
+        - Deliverers: [[RDFa Working Group](/groups/wg/rdfa/)]
+        - Tags: Data, HTML
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-core-20150317.html)]
+    - [ ] [[RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)] 
+        - Deliverers: [[RDFa Working Group](/groups/wg/rdfa/)]
+        - Tags: Data, HTML
+        - Translations: [[français](http://hawl9000.github.io/RDFaLite1.1.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-lite-20150317.html)]
+    - [ ] [[XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)] 
+        - Deliverers: [[RDFa Working Group](/groups/wg/rdfa/)]
+        - Tags: Data, HTML
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-xhtml-rdfa-20150317.html)]
+- RIF
+    - [ ] [[RIF Basic Logic Dialect (Second Edition)](https://www.w3.org/TR/rif-bld/)] 
+        - Deliverers: [[Rule Interchange Format Working Group](/groups/wg/rif/)]
+        - Tags: Data
+    - [ ] [[RIF Core Dialect (Second Edition)](https://www.w3.org/TR/rif-core/)] 
+        - Deliverers: [[Rule Interchange Format Working Group](/groups/wg/rif/)]
+        - Tags: Data
+    - [ ] [[RIF Datatypes and Built-Ins 1.0 (Second Edition)](https://www.w3.org/TR/rif-dtb/)] 
+        - Deliverers: [[Rule Interchange Format Working Group](/groups/wg/rif/)]
+    - [ ] [[RIF Framework for Logic Dialects (Second Edition)](https://www.w3.org/TR/rif-fld/)] 
+        - Deliverers: [[Rule Interchange Format Working Group](/groups/wg/rif/)]
+    - [ ] [[RIF Production Rule Dialect (Second Edition)](https://www.w3.org/TR/rif-prd/)] 
+        - Deliverers: [[Rule Interchange Format Working Group](/groups/wg/rif/)]
+    - [ ] [[RIF RDF and OWL Compatibility (Second Edition)](https://www.w3.org/TR/rif-rdf-owl/)] 
+        - Deliverers: [[Rule Interchange Format Working Group](/groups/wg/rif/)]
+        - Tags: Data
+- Referrer Policy
+    - [ ] [[Referrer Policy](https://www.w3.org/TR/referrer-policy/)] `candidate standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- Resize Observer
+    - [ ] [[Resize Observer](https://www.w3.org/TR/resize-observer-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- SCXML
+    - [ ] [[State Chart XML (SCXML): State Machine Notation for Control Abstraction](https://www.w3.org/TR/scxml/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+- SHACL
+    - [ ] [[Shapes Constraint Language (SHACL)](https://www.w3.org/TR/shacl/)] 
+        - Deliverers: [[Data Shapes Working Group](/groups/wg/data-shapes/)]
+        - Tags: Data
+- SISR
+    - [ ] [[Semantic Interpretation for Speech Recognition (SISR) Version 1.0](https://www.w3.org/TR/semantic-interpretation/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+- SKOS
+    - [ ] [[SKOS Simple Knowledge Organization System Reference](https://www.w3.org/TR/skos-reference/)] 
+        - Deliverers: [[Semantic Web Deployment Working Group](/groups/wg/swd/)]
+        - Tags: Data
+        - Translations: [[dansk](https://lists.w3.org/Archives/Public/w3c-translators/2021JulSep/att-0012/00-part)], [[français](http://sparna.fr/skos/SKOS-traduction-francais.html)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/skos/REC-skos-reference-20090818.html)]
+- SMIL
+    - [ ] [[SMIL Animation](https://www.w3.org/TR/smil-animation/)] 
+        - Deliverers: [[SVG Working Group](/groups/wg/svg/)], [[SYMM Working Group](/groups/wg/symm/)]
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/smil-animation/)], [[日本語](https://triple-underscore.github.io/SVG11/smil-animation.html)]
+    - [ ] [[Synchronized Multimedia Integration Language (SMIL 2.1)](https://www.w3.org/TR/SMIL2/)] 
+        - Deliverers: [[SYMM Working Group](/groups/wg/symm/)]
+    - [ ] [[Synchronized Multimedia Integration Language (SMIL 3.0)](https://www.w3.org/TR/SMIL3/)] 
+        - Deliverers: [[SYMM Working Group](/groups/wg/symm/)]
+    - [ ] [[Synchronized Multimedia Integration Language (SMIL) 1.0 Specification](https://www.w3.org/TR/REC-smil/)] 
+        - Deliverers: [[SYMM Working Group](/groups/wg/symm/)]
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/smil1/)], [[italiano](http://www.w3c.it/traduzioni/REC-smil-it.html)], [[日本語](http://www.doraneko.org/misc/smil10/smil10.html)], [[한국어](http://chinese-school.netfirms.com/smil10-kr.html)], [[中文（繁體）](http://chinese-school.netfirms.com/SMIL10-TC.html)]
+- SML
+    - [ ] [[Service Modeling Language Interchange Format Version 1.1](https://www.w3.org/TR/sml-if/)] 
+        - Deliverers: [[Service Modeling Language Working Group](/groups/wg/sml/)]
+    - [ ] [[Service Modeling Language, Version 1.1](https://www.w3.org/TR/sml/)] 
+        - Deliverers: [[Service Modeling Language Working Group](/groups/wg/sml/)]
+- SOAP
+    - [ ] [[Resource Representation SOAP Header Block](https://www.w3.org/TR/soap12-rep/)] 
+        - Deliverers: [[XML Protocol Working Group](/groups/wg/xml-protocol/)]
+    - [ ] [[SOAP Message Transmission Optimization Mechanism](https://www.w3.org/TR/soap12-mtom/)] 
+        - Deliverers: [[XML Protocol Working Group](/groups/wg/xml-protocol/)]
+    - [ ] [[SOAP Version 1.2 Part 0: Primer (Second Edition)](https://www.w3.org/TR/soap12-part0/)] 
+        - Deliverers: [[XML Protocol Working Group](/groups/wg/xml-protocol/)]
+    - [ ] [[SOAP Version 1.2 Part 1: Messaging Framework (Second Edition)](https://www.w3.org/TR/soap12-part1/)] 
+        - Deliverers: [[XML Protocol Working Group](/groups/wg/xml-protocol/)]
+    - [ ] [[SOAP Version 1.2 Part 2: Adjuncts (Second Edition)](https://www.w3.org/TR/soap12-part2/)] 
+        - Deliverers: [[XML Protocol Working Group](/groups/wg/xml-protocol/)]
+    - [ ] [[SOAP Version 1.2 Specification Assertions and Test Collection (Second Edition)](https://www.w3.org/TR/soap12-testcollection/)] 
+        - Deliverers: [[XML Protocol Working Group](/groups/wg/xml-protocol/)]
+    - [ ] [[SOAP over Java Message Service 1.0](https://www.w3.org/TR/soapjms/)] 
+        - Deliverers: [[SOAP-JMS Binding Working Group](/groups/wg/soap-jms/)]
+    - [ ] [[XML-binary Optimized Packaging](https://www.w3.org/TR/xop10/)] 
+        - Deliverers: [[XML Protocol Working Group](/groups/wg/xml-protocol/)]
+        - Translations: [[português](https://www.w3.org/2005/02/XOP-pt.html)]
+- SPARQL
+    - [ ] [[SPARQL 1.1 Entailment Regimes](https://www.w3.org/TR/sparql11-entailment/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)]
+    - [ ] [[SPARQL 1.1 Federated Query](https://www.w3.org/TR/sparql11-federated-query/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-federated-query-20130321.html)]
+    - [ ] [[SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)]
+    - [ ] [[SPARQL 1.1 Overview](https://www.w3.org/TR/sparql11-overview/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-overview-20130321.html)], [[中文（简体）](http://www.chinaw3c.org/REC-sparql11-overview-20130321-cn.html)]
+    - [ ] [[SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-protocol-20130321.html)]
+    - [ ] [[SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-query-20130321.html)]
+    - [ ] [[SPARQL 1.1 Query Results CSV and TSV Formats](https://www.w3.org/TR/sparql11-results-csv-tsv/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-results-csv-tsv-20130321.html)]
+    - [ ] [[SPARQL 1.1 Query Results JSON Format](https://www.w3.org/TR/sparql11-results-json/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-results-json-20130321.html)]
+    - [ ] [[SPARQL 1.1 Service Description](https://www.w3.org/TR/sparql11-service-description/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-service-description-20130321.html)]
+    - [ ] [[SPARQL 1.1 Update](https://www.w3.org/TR/sparql11-update/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-sparql11-update-20130321.html)]
+    - [ ] [[SPARQL Protocol for RDF](https://www.w3.org/TR/rdf-sparql-protocol/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[فارسی](http://www.persianw3c.org/TR/2008/REC-rdf-sparql-protocol-20080115/)], [[français](http://www.yoyodesign.org/doc/w3c/rdf-sparql-protocol/)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/rdf-sparql-protocol.html)]
+    - [ ] [[SPARQL Query Language for RDF](https://www.w3.org/TR/rdf-sparql-query/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[español](http://skos.um.es/TR/rdf-sparql-query/)], [[français](http://www.yoyodesign.org/doc/w3c/rdf-sparql-query/)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/rdf-sparql-query.html)]
+    - [ ] [[SPARQL Query Results XML Format (Second Edition)](https://www.w3.org/TR/rdf-sparql-XMLres/)] 
+        - Deliverers: [[SPARQL Working Group](/groups/wg/sparql/)]
+        - Tags: Data
+        - Translations: [[Ελληνικά](https://lists.w3.org/Archives/Public/w3c-translators/2020AprJun/att-0023/00-part)], [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdf-sparql-XMLres-20130321.html)]
+- SSML
+    - [ ] [[Speech Synthesis Markup Language (SSML) Version 1.0](https://www.w3.org/TR/speech-synthesis/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/ssml1/)], [[italiano](http://www.vxmlitalia.com/ssml.html)]
+    - [ ] [[Speech Synthesis Markup Language (SSML) Version 1.1](https://www.w3.org/TR/speech-synthesis11/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/ref/accessibility/REC-speech-synthesis11-20100907.html)]
+- SVG
+    - [ ] [[Mobile SVG Profiles: SVG Tiny and SVG Basic](https://www.w3.org/TR/SVGMobile/)] 
+        - Deliverers: [[SVG Working Group](/groups/wg/svg/)]
+        - Tags: Graphics
+        - Translations: [[Deutsch](http://www.schumacher-netz.de/TR/2003/REC-SVGMobile-20030114-de.html)]
+    - [ ] [[Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)] 
+        - Deliverers: [[SVG Working Group](/groups/wg/svg/)]
+        - Tags: Graphics
+        - Translations: [[日本語](https://triple-underscore.github.io/SVG11/index.html)]
+    - [ ] [[Scalable Vector Graphics (SVG) Tiny 1.2 Specification](https://www.w3.org/TR/SVGTiny12/)] 
+        - Deliverers: [[SVG Working Group](/groups/wg/svg/)]
+        - Tags: Graphics
+- Screen Capture
+    - [ ] [[Capture Handle - Bootstrapping Collaboration when Screensharing](https://www.w3.org/TR/capture-handle-identity/)] `draft standard`
+        - Deliverers: [[Web Real-Time Communications Working Group](/groups/wg/webrtc/)]
+        - Tags: Media
+    - [ ] [[Region Capture](https://www.w3.org/TR/mediacapture-region/)] `draft standard`
+        - Deliverers: [[Web Real-Time Communications Working Group](/groups/wg/webrtc/)]
+        - Tags: Media, Web API
+    - [ ] [[Screen Capture](https://www.w3.org/TR/screen-capture/)] `draft standard`
+        - Deliverers: [[Web Real-Time Communications Working Group](/groups/wg/webrtc/)]
+        - Tags: Media, Web API
+    - [ ] [[Viewport Capture](https://www.w3.org/TR/mediacapture-viewport/)] `draft standard`
+        - Deliverers: [[Web Real-Time Communications Working Group](/groups/wg/webrtc/)]
+        - Tags: Media
+- Screen Wake Lock API
+    - [ ] [[Screen Wake Lock API](https://www.w3.org/TR/screen-wake-lock/)] `draft standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)], [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Secure Contexts
+    - [ ] [[Secure Contexts](https://www.w3.org/TR/secure-contexts/)] `candidate standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- Selection API
+    - [ ] [[Selection API](https://www.w3.org/TR/selection-api/)] `draft standard`
+        - Deliverers: [[Web Editing Working Group](/groups/wg/webediting/)]
+        - Tags: Web API
+- Selectors
+    - [ ] [[Selectors Level 3](https://www.w3.org/TR/selectors-3/)] 
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- Self-Review Questionnaire: Security and Privacy
+    - [ ] [[Self-Review Questionnaire: Security and Privacy](https://www.w3.org/TR/security-privacy-questionnaire/)] `note`
+        - Deliverers: [[Technical Architecture Group](/groups/other/tag/)], [[Security Interest Group](/groups/ig/security/)], [[Privacy Working Group](/groups/wg/privacy/)]
+        - Tags: Privacy
+- Semantic Sensor Network
+    - [ ] [[Semantic Sensor Network Ontology](https://www.w3.org/TR/vocab-ssn/)] 
+        - Deliverers: [[Spatio-temporal Data on the Web Working Group](/groups/wg/sdw/)]
+        - Tags: Data
+- Sensor API
+    - [ ] [[Accelerometer](https://www.w3.org/TR/accelerometer/)] `candidate standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+    - [ ] [[Generic Sensor API](https://www.w3.org/TR/generic-sensor/)] `candidate standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+    - [ ] [[Gyroscope](https://www.w3.org/TR/gyroscope/)] `candidate standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+- Service Workers
+    - [ ] [[Service Workers](https://www.w3.org/TR/service-workers/)] `candidate standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Social Web Protocols
+    - [ ] [[Activity Streams 2.0](https://www.w3.org/TR/activitystreams-core/)] 
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+        - Translations: [[日本語](https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0001.html)], [[中文（简体）](https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html)]
+    - [ ] [[Activity Vocabulary](https://www.w3.org/TR/activitystreams-vocabulary/)] 
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+        - Translations: [[日本語](https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0001.html)], [[中文（简体）](https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html)]
+    - [ ] [[ActivityPub](https://www.w3.org/TR/activitypub/)] 
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+        - Translations: [[日本語](https://argrath.github.io/activitypub/)], [[中文（简体）](https://w3c.wholetrans.org/activitypub/)]
+    - [ ] [[Linked Data Notifications](https://www.w3.org/TR/ldn/)] 
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/link/REC-ldn-20170502.html)]
+    - [ ] [[Micropub](https://www.w3.org/TR/micropub/)] 
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+    - [ ] [[WebSub](https://www.w3.org/TR/websub/)] 
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+    - [ ] [[Webmention](https://www.w3.org/TR/webmention/)] 
+        - Deliverers: [[Social Web Working Group](/groups/wg/social/)]
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/link/REC-webmention-20170112.html)]
+- Speech Recognition Grammar
+    - [ ] [[Speech Recognition Grammar Specification Version 1.0](https://www.w3.org/TR/speech-grammar/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/speech-grammar-20040316/index.html)]
+- Spoken Presentation in HTML
+    - [ ] [[Explainer: Improving Spoken Presentation on the Web](https://www.w3.org/TR/pronunciation-explainer/)] `draft standard`
+        - Deliverers: [[Accessible Platform Architectures Working Group](/groups/wg/apa/)]
+        - Tags: Accessibility
+    - [ ] [[Pronunciation Gap Analysis and Use Cases](https://www.w3.org/TR/pronunciation-gap-analysis-and-use-cases/)] `draft standard`
+        - Deliverers: [[Accessible Platform Architectures Working Group](/groups/wg/apa/)]
+        - Tags: Accessibility
+    - [ ] [[Pronunciation User Scenarios](https://www.w3.org/TR/pronunciation-user-scenarios/)] `draft standard`
+        - Deliverers: [[Accessible Platform Architectures Working Group](/groups/wg/apa/)]
+        - Tags: Accessibility
+    - [ ] [[Specification for Spoken Presentation in HTML](https://www.w3.org/TR/spoken-html/)] `draft standard`
+        - Deliverers: [[Accessible Platform Architectures Working Group](/groups/wg/apa/)]
+        - Tags: Accessibility
+- Subresource Integrity
+    - [ ] [[Subresource Integrity](https://www.w3.org/TR/SRI/)] 
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- TTML
+    - [ ] [[IMSC Hypothetical Render Model](https://www.w3.org/TR/imsc-hrm/)] 
+        - Deliverers: [[Timed Text Working Group](/groups/wg/timed-text/)]
+        - Tags: Media
+    - [ ] [[TTML Profiles for Internet Media Subtitles and Captions 1.0.1 (IMSC1)](https://www.w3.org/TR/ttml-imsc1.0.1/)] 
+        - Deliverers: [[Timed Text Working Group](/groups/wg/timed-text/)]
+        - Tags: Media
+    - [ ] [[TTML Profiles for Internet Media Subtitles and Captions 1.1](https://www.w3.org/TR/ttml-imsc1.1/)] 
+        - Deliverers: [[Timed Text Working Group](/groups/wg/timed-text/)]
+        - Tags: Media
+    - [ ] [[TTML Profiles for Internet Media Subtitles and Captions 1.2](https://www.w3.org/TR/ttml-imsc1.2/)] 
+        - Deliverers: [[Timed Text Working Group](/groups/wg/timed-text/)]
+        - Tags: Media
+    - [ ] [[Timed Text Markup Language 1 (TTML1) (Third Edition)](https://www.w3.org/TR/ttml1/)] 
+        - Deliverers: [[Timed Text Working Group](/groups/wg/timed-text/)]
+        - Tags: Media
+    - [ ] [[Timed Text Markup Language 2 (TTML2)](https://www.w3.org/TR/ttml2/)] 
+        - Deliverers: [[Timed Text Working Group](/groups/wg/timed-text/)]
+        - Tags: Accessibility, CSS, HTML
+- Tabular Data
+    - [ ] [[Generating JSON from Tabular Data on the Web](https://www.w3.org/TR/csv2json/)] 
+        - Deliverers: [[CSV on the Web Working Group](/groups/wg/csv/)]
+        - Tags: Data
+    - [ ] [[Generating RDF from Tabular Data on the Web](https://www.w3.org/TR/csv2rdf/)] 
+        - Deliverers: [[CSV on the Web Working Group](/groups/wg/csv/)]
+        - Tags: Data
+    - [ ] [[Metadata Vocabulary for Tabular Data](https://www.w3.org/TR/tabular-metadata/)] 
+        - Deliverers: [[CSV on the Web Working Group](/groups/wg/csv/)]
+        - Tags: Data
+    - [ ] [[Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)] 
+        - Deliverers: [[CSV on the Web Working Group](/groups/wg/csv/)]
+        - Tags: Data
+- Text Layout Requirements
+    - [ ] [[Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/)] `draft standard`
+        - Deliverers: [[Internationalization Working Group](/groups/wg/i18n-core/)]
+        - Tags: CSS, Graphics, i18n, XML
+    - [ ] [[Indic Layout Requirements](https://www.w3.org/TR/ilreq/)] `draft standard`
+        - Deliverers: [[Internationalization Working Group](/groups/wg/i18n-core/)]
+        - Tags: i18n
+    - [ ] [[Requirements for Latin Text Layout and Pagination](https://www.w3.org/TR/dpub-latinreq/)] `draft standard`
+        - Deliverers: [[Digital Publishing Interest Group](/groups/ig/publishing/)]
+        - Tags: Digital Publishing
+    - [ ] [[Rules for Simple Placement of Japanese Ruby](https://www.w3.org/TR/simple-ruby/)] `draft standard`
+        - Deliverers: [[Internationalization Working Group](/groups/wg/i18n-core/)]
+        - Tags: i18n
+- The Screen Orientation API
+    - [ ] [[Screen Orientation](https://www.w3.org/TR/screen-orientation/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+    - [ ] [[The Screen Orientation API](https://www.w3.org/TR/screen-orientation/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Time Ontology
+    - [ ] [[Time Ontology in OWL](https://www.w3.org/TR/owl-time/)] `candidate standard`
+        - Deliverers: [[Spatio-temporal Data on the Web Working Group](/groups/wg/sdw/)]
+        - Tags: Data
+- Trusted Types
+    - [ ] [[Trusted Types](https://www.w3.org/TR/trusted-types/)] `draft standard`
+        - Deliverers: [[Web Application Security Working Group](/groups/wg/webappsec/)]
+        - Tags: Security
+- UAAG
+    - [ ] [[User Agent Accessibility Guidelines 1.0](https://www.w3.org/TR/UAAG10/)] 
+        - Deliverers: [[User Agent Accessibility Guidelines Working Group](/groups/wg/uaag/)]
+        - Tags: Accessibility
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/uaag/cover.html)]
+- UI Events
+    - [ ] [[UI Events KeyboardEvent code Values](https://www.w3.org/TR/uievents-code/)] 
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: DOM, Web API
+    - [ ] [[UI Events KeyboardEvent key Values](https://www.w3.org/TR/uievents-key/)] 
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: DOM, Web API
+- Verifiable Credentials
+    - [ ] [[Bitstring Status List v1.0](https://www.w3.org/TR/vc-bitstring-status-list/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+    - [ ] [[Data Integrity ECDSA Cryptosuites v1.0](https://www.w3.org/TR/vc-di-ecdsa/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+    - [ ] [[Data Integrity EdDSA Cryptosuites v1.0](https://www.w3.org/TR/vc-di-eddsa/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+    - [ ] [[Securing Verifiable Credentials using JOSE and COSE](https://www.w3.org/TR/vc-jose-cose/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+    - [ ] [[Verifiable Credential Data Integrity 1.0](https://www.w3.org/TR/vc-data-integrity/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+    - [ ] [[Verifiable Credentials Data Model v1.1](https://www.w3.org/TR/vc-data-model/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-vc-data-model-20220303.html)], [[한국어](https://lukasjhan.github.io/vc-data-model/)], [[Tagalog](https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0012.html)], [[中文](https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0005.html)]
+    - [ ] [[Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/)] 
+        - Deliverers: [[Verifiable Credentials Working Group](/groups/wg/vc/)]
+        - Tags: Privacy, Security
+- Vibration API
+    - [ ] [[Vibration API](https://www.w3.org/TR/vibration/)] `candidate standard`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+- VirtualKeyboard API
+    - [ ] [[VirtualKeyboard API](https://www.w3.org/TR/virtual-keyboard/)] `draft standard`
+        - Deliverers: [[Web Editing Working Group](/groups/wg/webediting/)]
+        - Tags: Web API
+- Voice Browsers
+    - [ ] [[Voice Extensible Markup Language (VoiceXML) 2.1](https://www.w3.org/TR/voicexml21/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+    - [ ] [[Voice Extensible Markup Language (VoiceXML) Version 2.0](https://www.w3.org/TR/voicexml20/)] 
+        - Deliverers: [[Voice Browser Working Group](/groups/wg/voice/)]
+        - Tags: Media
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/voicexml20/)]
+- W3C Vision
+    - [ ] [[Vision for W3C](https://www.w3.org/TR/w3c-vision/)] `note`
+        - Deliverers: [[Advisory Board](/groups/other/ab/)]
+- WAI-ARIA
+    - [ ] [[ARIA in HTML](https://www.w3.org/TR/html-aria/)] 
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Accessibility
+    - [ ] [[Accessible Name and Description Computation 1.1](https://www.w3.org/TR/accname-1.1/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility
+        - Translations: [[日本語](https://momdo.github.io/accname-1.1/)]
+    - [ ] [[Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)] 
+        - Deliverers: [[Protocols and Formats Working Group](/groups/wg/pf/)]
+        - Tags: Accessibility
+        - Translations: [[български](https://lists.w3.org/Archives/Public/w3c-translators/2014JulSep/0025.html)], [[magyar](http://w3c.hu/forditasok/WAI-ARIA/)], [[日本語](http://momdo.github.io/wai-aria/)]
+    - [ ] [[Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria-1.1/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility
+        - Translations: [[日本語](https://momdo.github.io/wai-aria-1.1/)]
+    - [ ] [[Accessible Rich Internet Applications (WAI-ARIA) 1.2](https://www.w3.org/TR/wai-aria-1.2/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility
+        - Translations: [[日本語](https://momdo.github.io/wai-aria-1.2/)]
+    - [ ] [[Core Accessibility API Mappings 1.1](https://www.w3.org/TR/core-aam-1.1/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility
+    - [ ] [[Digital Publishing Accessibility API Mappings](https://www.w3.org/TR/dpub-aam-1.0/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility
+    - [ ] [[Digital Publishing WAI-ARIA Module 1.0](https://www.w3.org/TR/dpub-aria-1.0/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility
+        - Translations: [[日本語](https://momdo.github.io/dpub-aria-1.0/)]
+    - [ ] [[Graphics Accessibility API Mappings](https://www.w3.org/TR/graphics-aam-1.0/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility, Graphics
+    - [ ] [[Role Attribute 1.0](https://www.w3.org/TR/role-attribute/)] 
+        - Deliverers: [[Protocols and Formats Working Group](/groups/wg/pf/)]
+        - Tags: Accessibility
+        - Translations: [[한국어](http://techhtml.github.io/role-attribute/)]
+    - [ ] [[WAI-ARIA 1.0 User Agent Implementation Guide](https://www.w3.org/TR/wai-aria-implementation/)] 
+        - Deliverers: [[Protocols and Formats Working Group](/groups/wg/pf/)]
+        - Tags: Accessibility
+    - [ ] [[WAI-ARIA Graphics Module](https://www.w3.org/TR/graphics-aria-1.0/)] 
+        - Deliverers: [[Accessible Rich Internet Applications Working Group](/groups/wg/aria/)]
+        - Tags: Accessibility, Graphics
+        - Translations: [[日本語](https://momdo.github.io/graphics-aria-1.0/)]
+- WAI-Adapt module
+    - [ ] [[WAI-Adapt: Symbols Module](https://www.w3.org/TR/adapt-symbols/)] `candidate standard`
+        - Deliverers: [[Accessible Platform Architectures Working Group](/groups/wg/apa/)]
+        - Tags: Accessibility
+- WOFF
+    - [ ] [[WOFF File Format 1.0](https://www.w3.org/TR/WOFF/)] 
+        - Deliverers: [[Web Fonts Working Group](/groups/wg/webfonts/)]
+        - Tags: Web Fonts
+    - [ ] [[WOFF File Format 2.0](https://www.w3.org/TR/WOFF2/)] 
+        - Deliverers: [[Web Fonts Working Group](/groups/wg/webfonts/)]
+        - Tags: Web Fonts
+- WSDL
+    - [ ] [[Semantic Annotations for WSDL and XML Schema](https://www.w3.org/TR/sawsdl/)] 
+        - Deliverers: [[Semantic Annotations for Web Services Description Language Working Group](/groups/wg/sawsdl/)]
+    - [ ] [[Web Services Description Language (WSDL) Version 2.0 Part 0: Primer](https://www.w3.org/TR/wsdl20-primer/)] 
+        - Deliverers: [[Web Services Description Working Group](/groups/wg/ws-desc/)]
+    - [ ] [[Web Services Description Language (WSDL) Version 2.0 Part 1: Core Language](https://www.w3.org/TR/wsdl20/)] 
+        - Deliverers: [[Web Services Description Working Group](/groups/wg/ws-desc/)]
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/wsdl20/)]
+    - [ ] [[Web Services Description Language (WSDL) Version 2.0 Part 2: Adjuncts](https://www.w3.org/TR/wsdl20-adjuncts/)] 
+        - Deliverers: [[Web Services Description Working Group](/groups/wg/ws-desc/)]
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/wsdl20-adjuncts/)]
+- Web Animations
+    - [ ] [[CSS Animation Worklet API](https://www.w3.org/TR/css-animation-worklet-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Animations Level 1](https://www.w3.org/TR/css-animations-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[CSS Animations Level 2](https://www.w3.org/TR/css-animations-2/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+    - [ ] [[Scroll-driven Animations](https://www.w3.org/TR/scroll-animations-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: Browser, CSS
+    - [ ] [[Web Animations](https://www.w3.org/TR/web-animations-1/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS, Graphics
+    - [ ] [[Web Animations Level 2](https://www.w3.org/TR/web-animations-2/)] `draft standard`
+        - Deliverers: [[Cascading Style Sheets (CSS) Working Group](/groups/wg/css/)]
+        - Tags: CSS
+- Web Annotations
+    - [ ] [[Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)] 
+        - Deliverers: [[Web Annotation Working Group](/groups/wg/annotation/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/annotation/REC-annotation-model-20170223.html)]
+    - [ ] [[Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)] 
+        - Deliverers: [[Web Annotation Working Group](/groups/wg/annotation/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/annotation/REC-annotation-protocol-20170223.html)]
+    - [ ] [[Web Annotation Vocabulary](https://www.w3.org/TR/annotation-vocab/)] 
+        - Deliverers: [[Web Annotation Working Group](/groups/wg/annotation/)]
+        - Tags: Data
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/annotation/REC-annotation-vocab-20170223.html)]
+- Web App Manifest
+    - [ ] [[Web App Manifest - Application Information](https://www.w3.org/TR/manifest-app-info/)] `note`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+- Web Application Privacy
+    - [ ] [[Privacy Principles](https://www.w3.org/TR/privacy-principles/)] `statement`
+        - Deliverers: [[Technical Architecture Group](/groups/other/tag/)]
+        - Tags: Privacy
+    - [ ] [[Web Application Privacy Best Practices](https://www.w3.org/TR/app-privacy-bp/)] `note`
+        - Deliverers: [[Devices and Sensors Working Group](/groups/wg/das/)]
+        - Tags: Web API
+- Web Architecture
+    - [ ] [[Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/webarch/)] 
+        - Deliverers: [[Technical Architecture Group](/groups/other/tag/)]
+        - Translations: [[čeština](http://www.kosek.cz/w3c/webarch/)], [[français](http://www.opikanoba.org/tr/w3c/webarch/)], [[italiano](http://www.dkg.it/w3c/TR/2004/REC-webarch-20041215/it/index.htm)], [[português (Brasil)](http://yaso.is/WebARCH/)]
+- Web Audio API
+    - [ ] [[Web Audio API](https://www.w3.org/TR/webaudio-1.0/)] 
+        - Deliverers: [[Audio Working Group](/groups/wg/audio/)]
+        - Tags: Media, Web API
+- Web Authentication
+    - [ ] [[Web Authentication: An API for accessing Public Key Credentials - Level 2](https://www.w3.org/TR/webauthn-2/)] 
+        - Deliverers: [[Web Authentication Working Group](/groups/wg/webauthn/)]
+        - Tags: Security
+    - [ ] [[Web Authentication:An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/webauthn-1/)] 
+        - Deliverers: [[Web Authentication Working Group](/groups/wg/webauthn/)]
+        - Tags: Security
+- Web Crypto
+    - [ ] [[Web Cryptography API](https://www.w3.org/TR/WebCryptoAPI/)] 
+        - Deliverers: [[Web Cryptography Working Group](/groups/wg/webcrypto/)]
+        - Tags: Security, Web API
+- Web Locks API
+    - [ ] [[Web Locks API](https://www.w3.org/TR/web-locks/)] `draft standard`
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+- Web MIDI API
+    - [ ] [[Web MIDI API](https://www.w3.org/TR/webmidi/)] `draft standard`
+        - Deliverers: [[Audio Working Group](/groups/wg/audio/)]
+        - Tags: Media
+- Web Neural Network API
+    - [ ] [[Web Neural Network API](https://www.w3.org/TR/webnn/)] `candidate standard`
+        - Deliverers: [[Web Machine Learning Working Group](/groups/wg/webmachinelearning/)]
+        - Tags: Web API
+- Web Payments
+    - [ ] [[Payment Method Identifiers](https://www.w3.org/TR/payment-method-id/)] 
+        - Deliverers: [[Web Payments Working Group](/groups/wg/payments/)]
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html)]
+- Web Publications
+    - [ ] [[Publication Manifest](https://www.w3.org/TR/pub-manifest/)] 
+        - Deliverers: [[Audiobooks Working Group](/groups/wg/publishing/)]
+        - Tags: Digital Publishing
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/publishing/REC-pub-manifest-20201110.html)]
+- Web Security UI
+    - [ ] [[Web Security Context: User Interface Guidelines](https://www.w3.org/TR/wsc-ui/)] 
+        - Deliverers: [[Web Security Context Working Group](/groups/wg/wsc/)]
+- Web Services
+    - [ ] [[Web Services Enumeration (WS-Enumeration)](https://www.w3.org/TR/ws-enumeration/)] 
+        - Deliverers: [[Web Services Resource Access Working Group](/groups/wg/ws-resource-access/)]
+    - [ ] [[Web Services Event Descriptions (WS-EventDescriptions)](https://www.w3.org/TR/ws-event-descriptions/)] 
+        - Deliverers: [[Web Services Resource Access Working Group](/groups/wg/ws-resource-access/)]
+    - [ ] [[Web Services Eventing (WS-Eventing)](https://www.w3.org/TR/ws-eventing/)] 
+        - Deliverers: [[Web Services Resource Access Working Group](/groups/wg/ws-resource-access/)]
+    - [ ] [[Web Services Fragment (WS-Fragment)](https://www.w3.org/TR/ws-fragment/)] 
+        - Deliverers: [[Web Services Resource Access Working Group](/groups/wg/ws-resource-access/)]
+    - [ ] [[Web Services Metadata Exchange (WS-MetadataExchange)](https://www.w3.org/TR/ws-metadata-exchange/)] 
+        - Deliverers: [[Web Services Resource Access Working Group](/groups/wg/ws-resource-access/)]
+    - [ ] [[Web Services SOAP Assertions (WS-SOAPAssertions)](https://www.w3.org/TR/ws-soap-assertions/)] 
+        - Deliverers: [[Web Services Resource Access Working Group](/groups/wg/ws-resource-access/)]
+    - [ ] [[Web Services Transfer (WS-Transfer)](https://www.w3.org/TR/ws-transfer/)] 
+        - Deliverers: [[Web Services Resource Access Working Group](/groups/wg/ws-resource-access/)]
+- Web Services Addressing
+    - [ ] [[Web Services Addressing 1.0 - Core](https://www.w3.org/TR/ws-addr-core/)] 
+        - Deliverers: [[Web Services Addressing Working Group](/groups/wg/ws-addressing/)]
+        - Translations: [[español](http://www.spanish-translator-services.com/espanol/t/wsacore1.htm)], [[中文（简体）](http://lists.w3.org/Archives/Public/w3c-translators/2019JanMar/0028.html)]
+    - [ ] [[Web Services Addressing 1.0 - Metadata](https://www.w3.org/TR/ws-addr-metadata/)] 
+        - Deliverers: [[Web Services Addressing Working Group](/groups/wg/ws-addressing/)]
+    - [ ] [[Web Services Addressing 1.0 - SOAP Binding](https://www.w3.org/TR/ws-addr-soap/)] 
+        - Deliverers: [[Web Services Addressing Working Group](/groups/wg/ws-addressing/)]
+- Web Services Policy
+    - [ ] [[Web Services Policy 1.5 - Attachment](https://www.w3.org/TR/ws-policy-attach/)] 
+        - Deliverers: [[Web Services Policy Working Group](/groups/wg/ws-policy/)]
+    - [ ] [[Web Services Policy 1.5 - Framework](https://www.w3.org/TR/ws-policy/)] 
+        - Deliverers: [[Web Services Policy Working Group](/groups/wg/ws-policy/)]
+- Web Share API
+    - [ ] [[Web Share API](https://www.w3.org/TR/web-share/)] 
+        - Deliverers: [[Web Applications Working Group](/groups/wg/webapps/)]
+        - Tags: Web API
+        - Translations: [[português](https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0024.html)]
+- Web of Things
+    - [ ] [[Web of Things (WoT) Architecture](https://www.w3.org/TR/wot-architecture10/)] 
+        - Deliverers: [[Web of Things Working Group](/groups/wg/wot/)]
+        - Tags: WoT
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html)], [[中文（简体）](https://liuxing3169.github.io/wot-architecture/publication/rec/index.html)]
+    - [ ] [[Web of Things (WoT) Architecture 1.1](https://www.w3.org/TR/wot-architecture11/)] 
+        - Deliverers: [[Web of Things Working Group](/groups/wg/wot/)]
+        - Tags: WoT
+    - [ ] [[Web of Things (WoT) Discovery](https://www.w3.org/TR/wot-discovery/)] 
+        - Deliverers: [[Web of Things Working Group](/groups/wg/wot/)]
+        - Tags: WoT
+    - [ ] [[Web of Things (WoT) Thing Description](https://www.w3.org/TR/wot-thing-description10/)] 
+        - Deliverers: [[Web of Things Working Group](/groups/wg/wot/)]
+        - Tags: WoT
+        - Translations: [[日本語](http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-thing-description-20200409.html)]
+    - [ ] [[Web of Things (WoT) Thing Description 1.1](https://www.w3.org/TR/wot-thing-description11/)] 
+        - Deliverers: [[Web of Things Working Group](/groups/wg/wot/)]
+        - Tags: WoT
+- WebAssembly
+    - [ ] [[WebAssembly Core Specification](https://www.w3.org/TR/wasm-core-1/)] 
+        - Deliverers: [[WebAssembly Working Group](/groups/wg/wasm/)]
+        - Tags: Performance
+    - [ ] [[WebAssembly JavaScript Interface](https://www.w3.org/TR/wasm-js-api-1/)] 
+        - Deliverers: [[WebAssembly Working Group](/groups/wg/wasm/)]
+        - Tags: Performance, Web API
+    - [ ] [[WebAssembly Web API](https://www.w3.org/TR/wasm-web-api-1/)] 
+        - Deliverers: [[WebAssembly Working Group](/groups/wg/wasm/)]
+        - Tags: Performance
+- WebCGM
+    - [ ] [[WebCGM 2.1](https://www.w3.org/TR/webcgm21/)] 
+        - Deliverers: [[WebCGM Working Group](/groups/wg/webcgm/)]
+        - Tags: Graphics
+- WebCodecs
+    - [ ] [[WebCodecs](https://www.w3.org/TR/webcodecs/)] `draft standard`
+        - Deliverers: [[Media Working Group](/groups/wg/media/)]
+        - Tags: Media
+- WebDriver
+    - [ ] [[WebDriver](https://www.w3.org/TR/webdriver1/)] 
+        - Deliverers: [[Browser Testing and Tools Working Group](/groups/wg/browser-tools-testing/)]
+        - Tags: Web API
+- WebGPU
+    - [ ] [[WebGPU](https://www.w3.org/TR/webgpu/)] `candidate standard`
+        - Deliverers: [[GPU for the Web Working Group](/groups/wg/gpu/)]
+        - Tags: Web API
+    - [ ] [[WebGPU Shading Language](https://www.w3.org/TR/WGSL/)] `candidate standard`
+        - Deliverers: [[GPU for the Web Working Group](/groups/wg/gpu/)]
+        - Tags: Graphics
+- WebIDL
+    - [ ] [[Java language binding for Web IDL](https://www.w3.org/TR/WebIDL-Java/)] `note`
+        - Deliverers: [[(historical) Web Applications Working Group](/groups/wg/webapps-old/)]
+- WebRTC
+    - [ ] [[WebRTC: Real-Time Communication in Browsers](https://www.w3.org/TR/webrtc/)] 
+        - Deliverers: [[Web Real-Time Communications Working Group](/groups/wg/webrtc/)]
+        - Tags: Media, Web API
+- WebTransport
+    - [ ] [[WebTransport](https://www.w3.org/TR/webtransport/)] `draft standard`
+        - Deliverers: [[WebTransport Working Group](/groups/wg/webtransport/)]
+        - Tags: HTTP
+- WebVTT
+    - [ ] [[WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt1/)] `candidate standard`
+        - Deliverers: [[Timed Text Working Group](/groups/wg/timed-text/)]
+        - Tags: CSS, Graphics, HTML
+- WebXR
+    - [ ] [[WebXR Augmented Reality Module - Level 1](https://www.w3.org/TR/webxr-ar-module-1/)] `candidate standard`
+        - Deliverers: [[Immersive Web Working Group](/groups/wg/immersive-web/)]
+        - Tags: Graphics, Web API
+    - [ ] [[WebXR Device API](https://www.w3.org/TR/webxr/)] `candidate standard`
+        - Deliverers: [[Immersive Web Working Group](/groups/wg/immersive-web/)]
+        - Tags: Graphics, Web API
+- Widgets
+    - [ ] [[Widgets 1.0: The Widget Landscape (Q1 2008)](https://www.w3.org/TR/widgets-land/)] `draft standard`
+        - Deliverers: [[Web Application Formats Working Group](/groups/wg/appformats/)]
+- Working with Time Zones
+- XForms
+    - [ ] [[XForms 1.1](https://www.w3.org/TR/xforms11/)] 
+        - Deliverers: [[Forms Working Group](/groups/wg/forms/)]
+        - Tags: XML
+- XInclude
+    - [ ] [[XML Inclusions (XInclude) Version 1.0 (Second Edition)](https://www.w3.org/TR/xinclude/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+- XLink
+    - [ ] [[XML Linking Language (XLink) Version 1.0](https://www.w3.org/TR/xlink/)] 
+        - Deliverers: [[XML Linking Working Group](/groups/wg/xml-linking/)]
+        - Tags: XML
+        - Translations: [[Deutsch](http://www.edition-w3c.de/TR/2001/REC-xlink-20010627/)], [[français](http://www.yoyodesign.org/doc/w3c/xlink/)]
+    - [ ] [[XML Linking Language (XLink) Version 1.1](https://www.w3.org/TR/xlink11/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+- XML
+    - [ ] [[Associating Style Sheets with XML documents 1.0 (Second Edition)](https://www.w3.org/TR/xml-stylesheet/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: CSS, XML
+        - Translations: [[русский](http://zajtcev.org/docs/w3c/ru/associating-xml-stylesheet-second-edition.html)]
+    - [ ] [[Extensible Markup Language (XML) 1.0 (Fifth Edition)](https://www.w3.org/TR/xml/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+        - Translations: [[日本語](http://w4ard.eplusx.net/translation/W3C/REC-xml-20081126/)], [[svenska](http://www.xml.se/xml/REC-xml-1_0-5th-ed-sv/index.html)]
+    - [ ] [[Extensible Markup Language (XML) 1.1 (Second Edition)](https://www.w3.org/TR/xml11/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+        - Translations: [[svenska](http://www.xml.se/xml/REC-xml-1_1-2nd-ed-sv/index.html)], [[Türkçe](http://belgeler.org/recs/xml11/)]
+    - [ ] [[Namespaces in XML 1.0 (Third Edition)](https://www.w3.org/TR/xml-names/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+        - Translations: [[日本語](https://triple-underscore.github.io/xml-names-ja.html)], [[русский](http://genberm.narod.ru/xml/namespace/namespace1_0-3ed.html)], [[українська](http://zajtcev.org/docs/w3c/ua/REC-xml-names-20091208-third-edition.html)]
+    - [ ] [[Namespaces in XML 1.1 (Second Edition)](https://www.w3.org/TR/xml-names11/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+        - Translations: [[فارسی](http://www.persianw3c.org/TR/2006/REC-xml-names11-20060816/)], [[日本語](https://triple-underscore.github.io/xml-names-ja.html?1.1)], [[русский](http://zajtcev.org/docs/w3c/ru/xml-names11-second-edition.html)], [[Türkçe](http://belgeler.org/recs/xml-names11/)], [[українська](http://zajtcev.org/docs/w3c/ua/xml-names11-second-edition.html)]
+    - [ ] [[XML Base (Second Edition)](https://www.w3.org/TR/xmlbase/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Translations: [[Deutsch](http://www.schumacher-netz.de/TR/2009/REC-xmlbase_20090128.de.html)], [[українська](http://zajtcev.org/docs/w3c/ua/REC-xmlbase-20090128.html)]
+    - [ ] [[XML Entity Definitions for Characters (3rd Edition)](https://www.w3.org/TR/xml-entity-names/)] 
+        - Deliverers: [[Math Working Group](/groups/wg/math/)]
+        - Tags: XML
+        - Translations: [[日本語](http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html)]
+    - [ ] [[XML Information Set (Second Edition)](https://www.w3.org/TR/xml-infoset/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+        - Translations: [[español](http://www.spanish-translator-services.com/espanol/t/infoset.htm)], [[日本語](http://www.doraneko.org/xml/infoset/20040204/Overview.html)], [[polski](http://www.antyspam.pl/w3c/REC-xml-infoset-20040204/)], [[русский](http://genberm.narod.ru/xml/infoset/infoset.html)], [[Türkçe](http://belgeler.org/recs/xml-infoset/)], [[中文（简体）](http://www.w3china.org/translation/infoset_20040204_cn.htm)]
+    - [ ] [[xml:id Version 1.0](https://www.w3.org/TR/xml-id/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Translations: [[Deutsch](http://meiert.com/de/w3/TR/xml-id/)], [[español](http://www.spanish-translator-services.com/espanol/t/xmlid.htm)], [[français](http://www.yoyodesign.org/doc/w3c/xml-id/)], [[português (Brasil)](http://www.maujor.com/w3c/xml-id.html)], [[русский](http://wide-web.org/w3c-tr-ru/REC-xml-id-20050909.html)], [[українська](http://wide-web.org/w3c-tr-uk/REC-xml-id-20050909.html)]
+- XML Accessibility Guidelines
+    - [ ] [[XML Accessibility Guidelines](https://www.w3.org/TR/xag)] `draft standard`
+        - Deliverers: [[Protocols and Formats Working Group](/groups/wg/pf/)]
+        - Tags: Accessibility
+- XML Canonicalization
+    - [ ] [[Canonical XML Version 1.0](https://www.w3.org/TR/xml-c14n/)] 
+        - Deliverers: [[XML Security Working Group](/groups/wg/xmlsec/)]
+        - Tags: XML
+    - [ ] [[Canonical XML Version 1.1](https://www.w3.org/TR/xml-c14n11/)] 
+        - Deliverers: [[XML Core Working Group](/groups/wg/xml-core/)]
+        - Tags: XML
+    - [ ] [[Exclusive XML Canonicalization Version 1.0](https://www.w3.org/TR/xml-exc-c14n/)] 
+        - Deliverers: [[XML Security Working Group](/groups/wg/xmlsec/)]
+        - Tags: XML
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/xml-exc-c14n/)]
+- XML Encryption
+    - [ ] [[XML Encryption Syntax and Processing Version 1.1](https://www.w3.org/TR/xmlenc-core1/)] 
+        - Deliverers: [[XML Security Working Group](/groups/wg/xmlsec/)]
+        - Tags: XML
+- XML Schema
+    - [ ] [[W3C XML Schema Definition Language (XSD) 1.1 Part 1: Structures](https://www.w3.org/TR/xmlschema11-1/)] 
+        - Deliverers: [[XML Schema Working Group](/groups/wg/schema/)]
+        - Tags: XML
+    - [ ] [[W3C XML Schema Definition Language (XSD) 1.1 Part 2: Datatypes](https://www.w3.org/TR/xmlschema11-2/)] 
+        - Deliverers: [[XML Schema Working Group](/groups/wg/schema/)]
+        - Tags: XML
+    - [ ] [[XML Schema Part 0: Primer Second Edition](https://www.w3.org/TR/xmlschema-0/)] 
+        - Deliverers: [[XML Schema Working Group](/groups/wg/schema/)]
+        - Tags: XML
+        - Translations: [[português](http://desenaviegas.com/XML_Primer(1).htm)]
+    - [ ] [[XML Schema Part 1: Structures Second Edition](https://www.w3.org/TR/xmlschema-1/)] 
+        - Deliverers: [[XML Schema Working Group](/groups/wg/schema/)]
+        - Tags: XML
+    - [ ] [[XML Schema Part 2: Datatypes Second Edition](https://www.w3.org/TR/xmlschema-2/)] 
+        - Deliverers: [[XML Schema Working Group](/groups/wg/schema/)]
+        - Tags: XML
+- XML Signature
+    - [ ] [[Decryption Transform for XML Signature](https://www.w3.org/TR/xmlenc-decrypt/)] 
+        - Deliverers: [[XML Security Working Group](/groups/wg/xmlsec/)]
+        - Tags: XML
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/xmlenc-decrypt/)]
+    - [ ] [[XML Key Management Specification (XKMS 2.0)](https://www.w3.org/TR/xkms2/)] 
+        - Deliverers: 
+        - Tags: XML
+        - Translations: [[español](http://www.spanish-translator-services.com/espanol/t/XML_Key_Management_Specification_XKMS_2.0_Bindings_SP.htm)], [[français](http://www.yoyodesign.org/doc/w3c/xkms2/)]
+    - [ ] [[XML Key Management Specification (XKMS 2.0) Bindings](https://www.w3.org/TR/xkms2-bindings/)] 
+        - Deliverers: 
+        - Tags: XML
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/xkms2-bindings/)]
+    - [ ] [[XML Signature Properties](https://www.w3.org/TR/xmldsig-properties/)] 
+        - Deliverers: [[XML Security Working Group](/groups/wg/xmlsec/)]
+        - Tags: XML
+    - [ ] [[XML Signature Syntax and Processing Version 1.1](https://www.w3.org/TR/xmldsig-core1/)] 
+        - Deliverers: [[XML Security Working Group](/groups/wg/xmlsec/)]
+        - Tags: XML
+    - [ ] [[XML-Signature XPath Filter 2.0](https://www.w3.org/TR/xmldsig-filter2/)] 
+        - Deliverers: [[XML Security Working Group](/groups/wg/xmlsec/)]
+        - Tags: XML
+        - Translations: [[español](http://www.w3c.es/Traducciones/es/TR/2002/REC-xmldsig-filter2-20021108/)]
+- XProc
+    - [ ] [[XProc: An XML Pipeline Language](https://www.w3.org/TR/xproc/)] 
+        - Deliverers: [[XML Processing Model Working Group](/groups/wg/xml-processing/)]
+        - Tags: XML
+- XSL
+    - [ ] [[Extensible Stylesheet Language (XSL) Version 1.0](https://www.w3.org/TR/xsl/)] 
+        - Deliverers: [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/xsl1/Overview.html)], [[日本語](http://msugai.fc2web.com/web/W3C/xsl/Overview.html)]
+    - [ ] [[Extensible Stylesheet Language (XSL) Version 1.1](https://www.w3.org/TR/xsl11/)] 
+        - Deliverers: [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+- Xpointer
+    - [ ] [[XPointer Framework](https://www.w3.org/TR/xptr-framework/)] 
+        - Deliverers: [[XML Linking Working Group](/groups/wg/xml-linking/)]
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/xptr-framework/)]
+    - [ ] [[XPointer element() Scheme](https://www.w3.org/TR/xptr-element/)] 
+        - Deliverers: [[XML Linking Working Group](/groups/wg/xml-linking/)]
+        - Translations: [[français](http://www.yoyodesign.org/doc/w3c/xptr-element/)]
+    - [ ] [[XPointer xmlns() Scheme](https://www.w3.org/TR/xptr-xmlns/)] 
+        - Deliverers: [[XML Linking Working Group](/groups/wg/xml-linking/)]
+        - Translations: [[Deutsch](http://meiert.com/de/w3/TR/xptr-xmlns/)], [[français](http://www.yoyodesign.org/doc/w3c/xptr-xmlns/)]
+- Xquery & XSLT
+    - [ ] [[XML Path Language (XPath) 2.0 (Second Edition)](https://www.w3.org/TR/xpath20/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XML Path Language (XPath) 3.0](https://www.w3.org/TR/xpath-30/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XML Path Language (XPath) 3.1](https://www.w3.org/TR/xpath-31/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XML Path Language (XPath) Version 1.0](https://www.w3.org/TR/xpath-10/)] 
+        - Deliverers: [[XML Linking Working Group](/groups/wg/xml-linking/)]
+        - Tags: XML
+        - Translations: [[Deutsch](http://www.obqo.de/w3c-trans/xpath-de)], [[español](http://www.sidar.org/recur/desdi/traduc/es/xml/xpath.html)], [[日本語](http://www.doraneko.org/xml/xpath/REC991116.html)], [[Türkçe](http://belgeler.org/recs/xpath/)]
+    - [ ] [[XML Syntax for XQuery 1.0 (XQueryX) (Second Edition)](https://www.w3.org/TR/xqueryx/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)]
+        - Tags: XML
+    - [ ] [[XPath and XQuery Functions and Operators 3.0](https://www.w3.org/TR/xpath-functions-30/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XPath and XQuery Functions and Operators 3.1](https://www.w3.org/TR/xpath-functions-31/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)](https://www.w3.org/TR/xpath-datamodel/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQuery 1.0 and XPath 2.0 Formal Semantics (Second Edition)](https://www.w3.org/TR/xquery-semantics/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQuery 1.0 and XPath 2.0 Functions and Operators (Second Edition)](https://www.w3.org/TR/xpath-functions/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQuery 1.0: An XML Query Language (Second Edition)](https://www.w3.org/TR/xquery-10/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)]
+        - Tags: XML
+    - [ ] [[XQuery 3.0: An XML Query Language](https://www.w3.org/TR/xquery-30/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)]
+        - Tags: XML
+    - [ ] [[XQuery 3.1: An XML Query Language](https://www.w3.org/TR/xquery-31/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)]
+        - Tags: XML
+    - [ ] [[XQuery Update Facility 1.0](https://www.w3.org/TR/xquery-update-10/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)]
+        - Tags: XML
+    - [ ] [[XQuery and XPath Data Model 3.0](https://www.w3.org/TR/xpath-datamodel-30/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQuery and XPath Data Model 3.1](https://www.w3.org/TR/xpath-datamodel-31/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQuery and XPath Full Text 1.0](https://www.w3.org/TR/xpath-full-text-10/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQuery and XPath Full Text 3.0](https://www.w3.org/TR/xpath-full-text-30/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XQueryX 3.0](https://www.w3.org/TR/xqueryx-30/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)]
+        - Tags: XML
+    - [ ] [[XQueryX 3.1](https://www.w3.org/TR/xqueryx-31/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)]
+        - Tags: XML
+    - [ ] [[XSL Transformations (XSLT) Version 1.0](https://www.w3.org/TR/xslt-10/)] 
+        - Deliverers: [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+        - Translations: [[Türkçe](http://belgeler.org/recs/xslt/)]
+    - [ ] [[XSL Transformations (XSLT) Version 2.0 (Second Edition)](https://www.w3.org/TR/xslt20/)] 
+        - Deliverers: [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XSL Transformations (XSLT) Version 3.0](https://www.w3.org/TR/xslt-30/)] 
+        - Deliverers: [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XSLT 2.0 and XQuery 1.0 Serialization (Second Edition)](https://www.w3.org/TR/xslt-xquery-serialization/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XSLT and XQuery Serialization 3.0](https://www.w3.org/TR/xslt-xquery-serialization-30/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+    - [ ] [[XSLT and XQuery Serialization 3.1](https://www.w3.org/TR/xslt-xquery-serialization-31/)] 
+        - Deliverers: [[XML Query Working Group](/groups/wg/xml-query/)], [[XSLT Working Group](/groups/wg/xslt/)]
+        - Tags: XML
+- egov
+    - [ ] [[Publishing Open Government Data](https://www.w3.org/TR/gov-data/)] `draft standard`
+        - Deliverers: [[eGovernment Interest Group](/groups/ig/egov/)]
